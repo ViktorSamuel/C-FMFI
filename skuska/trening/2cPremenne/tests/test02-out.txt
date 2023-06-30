@@ -1,0 +1,20 @@
+Povodny vyraz: 1
+Vyraz neobsahuje premennu x
+Po volani funkcie simplify: 1
+
+Povodny vyraz: (-1)
+Vyraz neobsahuje premennu x
+Po volani funkcie simplify: (-1)
+
+Povodny vyraz: x
+Vyraz obsahuje premmenu x
+Po volani funkcie simplify: x
+
+Povodny vyraz: (x * x)
+Vyraz obsahuje premmenu x
+Po volani funkcie simplify: (x * x)
+
+Povodny vyraz: (((x * x) * x) * x)
+Vyraz obsahuje premmenu x
+Po volani funkcie simplify: (((x * x) * x) * x)
+

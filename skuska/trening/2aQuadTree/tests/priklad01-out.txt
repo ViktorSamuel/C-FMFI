@@ -1,0 +1,33 @@
+Vstupny strom:
+ggggggg#
+.ggggg##
+..ggg###
+...g####
+...#####
+..######
+.#######
+########
+Pocet listov 64
+
+Strom po zjednoduseni:
+ggggggg#
+.ggggg##
+..ggg###
+...g####
+...#####
+..######
+.#######
+########
+Pocet listov 31
+
+Strom po prevrateni:
+########
+.#######
+..######
+...#####
+...g####
+..ggg###
+.ggggg##
+ggggggg#
+Pocet listov 31
+

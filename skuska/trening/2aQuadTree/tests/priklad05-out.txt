@@ -1,0 +1,21 @@
+Vstupny strom:
+abcd
+efgh
+ijkl
+mnop
+Pocet listov 16
+
+Strom po zjednoduseni:
+abcd
+efgh
+ijkl
+mnop
+Pocet listov 16
+
+Strom po prevrateni:
+mnop
+ijkl
+efgh
+abcd
+Pocet listov 16
+

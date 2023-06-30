@@ -1,0 +1,11 @@
+Pocet pouzitych zavazi: 9
+Zavazie 21: 1
+Zavazie 22: 1
+Zavazie 24: 1
+Zavazie 27: 1
+Zavazie 29: 1
+Zavazie 30: 1
+Zavazie 31: 0
+Zavazie 35: 1
+Zavazie 36: 1
+Zavazie 37: 1

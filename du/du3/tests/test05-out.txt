@@ -1,0 +1,9848 @@
+LEFT 0 0
+RIGHT 0 1
+DELETE 0 1
+DELETE 0 1
+RIGHT 0 2
+INSERT 0 2
+INSERT 0 2
+DELETE 0 2
+RIGHT 0 3
+RIGHT 0 4
+DELETE 0 4
+DELETE 0 4
+DELETE 0 4
+RIGHT 0 5
+INSERT 0 5
+RIGHT 0 6
+INSERT 0 6
+RIGHT 0 7
+RIGHT 0 8
+RIGHT 0 9
+INSERT 0 9
+LEFT 0 8
+RIGHT 0 9
+DELETE 0 9
+INSERT 0 9
+INSERT 0 9
+RIGHT 0 10
+RIGHT 0 11
+LEFT 0 10
+RIGHT 0 11
+INSERT 0 11
+RIGHT 0 12
+INSERT 0 12
+RIGHT 0 13
+DELETE 0 13
+INSERT 0 13
+RIGHT 0 14
+INSERT 0 14
+LEFT 0 13
+RIGHT 0 14
+RIGHT 0 15
+DELETE 0 15
+RIGHT 1 0
+RIGHT 1 1
+RIGHT 1 2
+DELETE 1 2
+RIGHT 1 3
+LEFT 1 2
+RIGHT 1 3
+RIGHT 1 4
+INSERT 1 4
+INSERT 1 4
+RIGHT 1 5
+DELETE 1 5
+RIGHT 1 6
+DELETE 1 6
+INSERT 1 6
+INSERT 1 6
+LEFT 1 5
+RIGHT 1 6
+RIGHT 1 7
+INSERT 1 7
+DELETE 1 7
+RIGHT 1 8
+RIGHT 1 9
+RIGHT 1 10
+RIGHT 1 11
+RIGHT 1 12
+RIGHT 2 0
+INSERT 2 0
+RIGHT 2 1
+DELETE 2 1
+LEFT 2 0
+INSERT 2 0
+RIGHT 2 1
+RIGHT 2 2
+RIGHT 2 3
+INSERT 2 3
+INSERT 2 3
+DELETE 2 3
+DELETE 2 3
+LEFT 2 2
+RIGHT 2 3
+INSERT 2 3
+LEFT 2 2
+RIGHT 2 3
+DELETE 2 3
+RIGHT 2 4
+DELETE 2 4
+DELETE 2 4
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toschrekzv
+hjqy wbg obdmxudft
+eiumxdxg w wfhvgvcid
+np aam aqamokvbvhrmq
+iwooxvd teldinxhb
+gtf nt s bksc
+zxhjqhrxsfon
+wotrjjivxywq
+jm msj ibewzocsjd  r
+rljdv  ybo jvbn 
+rnz fnsenskccd
+a tzdciohvw rytrfrh
+ yngpbzk knata e
+jnqnytufw kpqyd 
+u  ibssqvfpfnlngzts
+ugdpiqm rnbnu
+mjhqp mh si
+oydxvxmneukumtxt uq
+iwr nxpmp gh
+orscippa vorwts  ld
+dmfsvnpkulaba
+oojothmjvhkzmckmd ol
+fpvaq xbaw pz vjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 2 5
+LEFT 2 4
+LEFT 2 3
+DELETE 2 3
+RIGHT 2 4
+DELETE 2 4
+INSERT 2 4
+RIGHT 2 5
+RIGHT 2 6
+RIGHT 2 7
+RIGHT 2 8
+INSERT 2 8
+INSERT 2 8
+RIGHT 2 9
+DELETE 2 9
+INSERT 2 9
+INSERT 2 9
+DELETE 2 9
+INSERT 2 9
+DELETE 2 9
+RIGHT 2 10
+DELETE 2 10
+RIGHT 3 0
+INSERT 3 0
+DELETE 3 0
+RIGHT 3 1
+INSERT 3 1
+RIGHT 3 2
+RIGHT 3 3
+LEFT 3 2
+DELETE 3 2
+RIGHT 3 3
+INSERT 3 3
+INSERT 3 3
+LEFT 3 2
+RIGHT 3 3
+INSERT 3 3
+INSERT 3 3
+INSERT 3 3
+RIGHT 3 4
+RIGHT 3 5
+LEFT 3 4
+INSERT 3 4
+DELETE 3 4
+RIGHT 3 5
+RIGHT 3 6
+INSERT 3 6
+DELETE 3 6
+RIGHT 3 7
+RIGHT 3 8
+RIGHT 3 9
+RIGHT 3 10
+RIGHT 3 11
+DELETE 3 11
+DELETE 3 11
+DELETE 3 11
+DELETE 3 11
+RIGHT 3 12
+RIGHT 3 13
+RIGHT 3 14
+RIGHT 3 15
+RIGHT 4 0
+LEFT 3 15
+INSERT 3 15
+DELETE 3 15
+RIGHT 4 0
+DELETE 4 0
+RIGHT 4 1
+RIGHT 4 2
+RIGHT 4 3
+RIGHT 4 4
+DELETE 4 4
+RIGHT 4 5
+RIGHT 4 6
+RIGHT 4 7
+INSERT 4 7
+INSERT 4 7
+RIGHT 4 8
+DELETE 4 8
+INSERT 4 8
+DELETE 4 8
+INSERT 4 8
+RIGHT 4 9
+INSERT 4 9
+DELETE 4 9
+LEFT 4 8
+INSERT 4 8
+RIGHT 4 9
+INSERT 4 9
+RIGHT 4 10
+DELETE 4 10
+RIGHT 4 11
+DELETE 4 11
+RIGHT 4 12
+RIGHT 4 13
+RIGHT 4 14
+INSERT 4 14
+INSERT 4 14
+LEFT 4 13
+RIGHT 4 14
+DELETE 4 14
+DELETE 4 14
+INSERT 4 14
+LEFT 4 13
+DELETE 4 13
+RIGHT 4 14
+INSERT 4 14
+RIGHT 4 15
+RIGHT 4 16
+LEFT 4 15
+LEFT 4 14
+RIGHT 4 15
+RIGHT 4 16
+LEFT 4 15
+RIGHT 4 16
+DELETE 4 16
+RIGHT 4 17
+LEFT 4 16
+RIGHT 4 17
+RIGHT 4 18
+RIGHT 5 0
+RIGHT 5 1
+RIGHT 5 2
+LEFT 5 1
+LEFT 5 0
+DELETE 5 0
+RIGHT 5 1
+RIGHT 5 2
+RIGHT 5 3
+INSERT 5 3
+INSERT 5 3
+DELETE 5 3
+RIGHT 5 4
+RIGHT 5 5
+DELETE 5 5
+LEFT 5 4
+INSERT 5 4
+DELETE 5 4
+RIGHT 5 5
+LEFT 5 4
+RIGHT 5 5
+RIGHT 5 6
+RIGHT 5 7
+INSERT 5 7
+LEFT 5 6
+INSERT 5 6
+INSERT 5 6
+RIGHT 5 7
+INSERT 5 7
+RIGHT 5 8
+DELETE 5 8
+INSERT 5 8
+INSERT 5 8
+DELETE 5 8
+RIGHT 5 9
+LEFT 5 8
+INSERT 5 8
+RIGHT 5 9
+RIGHT 5 10
+DELETE 5 10
+RIGHT 5 11
+INSERT 5 11
+LEFT 5 10
+DELETE 5 10
+DELETE 5 10
+RIGHT 5 11
+RIGHT 5 12
+INSERT 5 12
+DELETE 5 12
+DELETE 5 12
+DELETE 5 12
+RIGHT 5 13
+DELETE 5 13
+LEFT 5 12
+DELETE 5 12
+RIGHT 5 13
+LEFT 5 12
+RIGHT 5 13
+INSERT 5 13
+INSERT 5 13
+DELETE 5 13
+INSERT 5 13
+RIGHT 5 14
+INSERT 5 14
+RIGHT 5 15
+LEFT 5 14
+RIGHT 5 15
+RIGHT 5 16
+RIGHT 5 17
+RIGHT 6 0
+RIGHT 6 1
+INSERT 6 1
+RIGHT 6 2
+DELETE 6 2
+LEFT 6 1
+RIGHT 6 2
+INSERT 6 2
+RIGHT 6 3
+LEFT 6 2
+RIGHT 6 3
+RIGHT 6 4
+DELETE 6 4
+RIGHT 6 5
+INSERT 6 5
+RIGHT 6 6
+LEFT 6 5
+RIGHT 6 6
+RIGHT 6 7
+INSERT 6 7
+LEFT 6 6
+LEFT 6 5
+RIGHT 6 6
+RIGHT 6 7
+RIGHT 6 8
+LEFT 6 7
+RIGHT 6 8
+INSERT 6 8
+LEFT 6 7
+RIGHT 6 8
+RIGHT 6 9
+DELETE 6 9
+RIGHT 6 10
+RIGHT 6 11
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teldinxhb
+gtf nt s bksc
+zxhjqhrxsfon
+wotrjjivxywq
+jm msj ibewzocsjd  r
+rljdv  ybo jvbn 
+rnz fnsenskccd
+a tzdciohvw rytrfrh
+ yngpbzk knata e
+jnqnytufw kpqyd 
+u  ibssqvfpfnlngzts
+ugdpiqm rnbnu
+mjhqp mh si
+oydxvxmneukumtxt uq
+iwr nxpmp gh
+orscippa vorwts  ld
+dmfsvnpkulaba
+oojothmjvhkzmckmd ol
+fpvaq xbaw pz vjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 6 12
+INSERT 6 12
+RIGHT 6 13
+LEFT 6 12
+RIGHT 6 13
+RIGHT 6 14
+RIGHT 6 15
+INSERT 6 15
+RIGHT 6 16
+INSERT 6 16
+INSERT 6 16
+DELETE 6 16
+DELETE 6 16
+RIGHT 6 17
+INSERT 6 17
+INSERT 6 17
+INSERT 6 17
+RIGHT 6 18
+RIGHT 6 19
+RIGHT 6 20
+DELETE 6 20
+DELETE 6 20
+INSERT 6 20
+RIGHT 7 0
+RIGHT 7 1
+RIGHT 7 2
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gtf nt s bksc
+zxhjqhrxsfon
+wotrjjivxywq
+jm msj ibewzocsjd  r
+rljdv  ybo jvbn 
+rnz fnsenskccd
+a tzdciohvw rytrfrh
+ yngpbzk knata e
+jnqnytufw kpqyd 
+u  ibssqvfpfnlngzts
+ugdpiqm rnbnu
+mjhqp mh si
+oydxvxmneukumtxt uq
+iwr nxpmp gh
+orscippa vorwts  ld
+dmfsvnpkulaba
+oojothmjvhkzmckmd ol
+fpvaq xbaw pz vjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 7 2
+RIGHT 7 3
+INSERT 7 3
+INSERT 7 3
+DELETE 7 3
+DELETE 7 3
+DELETE 7 3
+DELETE 7 3
+LEFT 7 2
+DELETE 7 2
+RIGHT 7 3
+RIGHT 7 4
+RIGHT 7 5
+DELETE 7 5
+INSERT 7 5
+LEFT 7 4
+LEFT 7 3
+RIGHT 7 4
+DELETE 7 4
+DELETE 7 4
+INSERT 7 4
+RIGHT 7 5
+DELETE 7 5
+DELETE 7 5
+RIGHT 7 6
+DELETE 7 6
+INSERT 7 6
+RIGHT 7 7
+RIGHT 8 0
+DELETE 8 0
+RIGHT 8 1
+INSERT 8 1
+RIGHT 8 2
+DELETE 8 2
+LEFT 8 1
+RIGHT 8 2
+DELETE 8 2
+INSERT 8 2
+RIGHT 8 3
+RIGHT 8 4
+RIGHT 8 5
+RIGHT 8 6
+RIGHT 8 7
+RIGHT 8 8
+RIGHT 8 9
+RIGHT 8 10
+RIGHT 8 11
+INSERT 8 11
+DELETE 8 11
+RIGHT 9 0
+RIGHT 9 1
+RIGHT 9 2
+RIGHT 9 3
+RIGHT 9 4
+RIGHT 9 5
+RIGHT 9 6
+RIGHT 9 7
+LEFT 9 6
+RIGHT 9 7
+LEFT 9 6
+RIGHT 9 7
+RIGHT 9 8
+RIGHT 9 9
+RIGHT 9 10
+LEFT 9 9
+LEFT 9 8
+INSERT 9 8
+RIGHT 9 9
+RIGHT 9 10
+RIGHT 9 11
+INSERT 9 11
+RIGHT 9 12
+RIGHT 9 13
+RIGHT 9 14
+RIGHT 10 0
+LEFT 9 14
+RIGHT 10 0
+INSERT 10 0
+INSERT 10 0
+RIGHT 10 1
+RIGHT 10 2
+RIGHT 10 3
+DELETE 10 3
+DELETE 10 3
+RIGHT 10 4
+RIGHT 10 5
+DELETE 10 5
+INSERT 10 5
+INSERT 10 5
+RIGHT 10 6
+RIGHT 10 7
+LEFT 10 6
+INSERT 10 6
+RIGHT 10 7
+RIGHT 10 8
+INSERT 10 8
+RIGHT 10 9
+RIGHT 10 10
+RIGHT 10 11
+DELETE 10 11
+DELETE 10 11
+INSERT 10 11
+INSERT 10 11
+RIGHT 10 12
+LEFT 10 11
+DELETE 10 11
+RIGHT 10 12
+RIGHT 10 13
+RIGHT 10 14
+DELETE 10 14
+INSERT 10 14
+RIGHT 10 15
+INSERT 10 15
+LEFT 10 14
+RIGHT 10 15
+RIGHT 10 16
+RIGHT 10 17
+LEFT 10 16
+DELETE 10 16
+LEFT 10 15
+RIGHT 10 16
+RIGHT 10 17
+RIGHT 10 18
+RIGHT 10 19
+RIGHT 11 0
+INSERT 11 0
+LEFT 10 19
+RIGHT 11 0
+RIGHT 11 1
+RIGHT 11 2
+RIGHT 11 3
+RIGHT 11 4
+RIGHT 11 5
+INSERT 11 5
+RIGHT 11 6
+RIGHT 11 7
+LEFT 11 6
+RIGHT 11 7
+LEFT 11 6
+RIGHT 11 7
+LEFT 11 6
+DELETE 11 6
+RIGHT 11 7
+DELETE 11 7
+RIGHT 11 8
+RIGHT 11 9
+INSERT 11 9
+LEFT 11 8
+RIGHT 11 9
+INSERT 11 9
+INSERT 11 9
+RIGHT 11 10
+INSERT 11 10
+RIGHT 11 11
+LEFT 11 10
+DELETE 11 10
+DELETE 11 10
+RIGHT 11 11
+RIGHT 11 12
+RIGHT 11 13
+RIGHT 11 14
+DELETE 11 14
+RIGHT 11 15
+RIGHT 11 16
+RIGHT 11 17
+LEFT 11 16
+RIGHT 11 17
+RIGHT 12 0
+LEFT 11 17
+RIGHT 12 0
+RIGHT 12 1
+LEFT 12 0
+DELETE 12 0
+RIGHT 12 1
+RIGHT 12 2
+RIGHT 12 3
+RIGHT 12 4
+RIGHT 12 5
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenskccd
+a tzdciohvw rytrfrh
+ yngpbzk knata e
+jnqnytufw kpqyd 
+u  ibssqvfpfnlngzts
+ugdpiqm rnbnu
+mjhqp mh si
+oydxvxmneukumtxt uq
+iwr nxpmp gh
+orscippa vorwts  ld
+dmfsvnpkulaba
+oojothmjvhkzmckmd ol
+fpvaq xbaw pz vjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenskccd
+a tzdciohvw rytrfrh
+ yngpbzk knata e
+jnqnytufw kpqyd 
+u  ibssqvfpfnlngzts
+ugdpiqm rnbnu
+mjhqp mh si
+oydxvxmneukumtxt uq
+iwr nxpmp gh
+orscippa vorwts  ld
+dmfsvnpkulaba
+oojothmjvhkzmckmd ol
+fpvaq xbaw pz vjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 12 6
+RIGHT 12 7
+RIGHT 12 8
+RIGHT 12 9
+INSERT 12 9
+DELETE 12 9
+RIGHT 12 10
+LEFT 12 9
+DELETE 12 9
+LEFT 12 8
+INSERT 12 8
+INSERT 12 8
+INSERT 12 8
+INSERT 12 8
+RIGHT 12 9
+LEFT 12 8
+RIGHT 12 9
+RIGHT 12 10
+RIGHT 12 11
+INSERT 12 11
+RIGHT 12 12
+RIGHT 12 13
+RIGHT 12 14
+DELETE 12 14
+DELETE 12 14
+RIGHT 12 15
+RIGHT 13 0
+DELETE 13 0
+RIGHT 13 1
+LEFT 13 0
+RIGHT 13 1
+RIGHT 13 2
+RIGHT 13 3
+INSERT 13 3
+INSERT 13 3
+RIGHT 13 4
+RIGHT 13 5
+INSERT 13 5
+RIGHT 13 6
+RIGHT 13 7
+INSERT 13 7
+DELETE 13 7
+RIGHT 13 8
+DELETE 13 8
+RIGHT 13 9
+LEFT 13 8
+DELETE 13 8
+RIGHT 13 9
+DELETE 13 9
+LEFT 13 8
+DELETE 13 8
+RIGHT 13 9
+RIGHT 13 10
+RIGHT 13 11
+DELETE 13 11
+RIGHT 13 12
+LEFT 13 11
+RIGHT 13 12
+RIGHT 13 13
+RIGHT 13 14
+RIGHT 14 0
+INSERT 14 0
+INSERT 14 0
+INSERT 14 0
+RIGHT 14 1
+RIGHT 14 2
+INSERT 14 2
+RIGHT 14 3
+LEFT 14 2
+RIGHT 14 3
+DELETE 14 3
+LEFT 14 2
+RIGHT 14 3
+DELETE 14 3
+LEFT 14 2
+LEFT 14 1
+INSERT 14 1
+LEFT 14 0
+RIGHT 14 1
+INSERT 14 1
+RIGHT 14 2
+INSERT 14 2
+INSERT 14 2
+DELETE 14 2
+RIGHT 14 3
+DELETE 14 3
+DELETE 14 3
+DELETE 14 3
+INSERT 14 3
+DELETE 14 3
+RIGHT 14 4
+RIGHT 14 5
+RIGHT 14 6
+RIGHT 14 7
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzk knata e
+jnqnytufw kpqyd 
+u  ibssqvfpfnlngzts
+ugdpiqm rnbnu
+mjhqp mh si
+oydxvxmneukumtxt uq
+iwr nxpmp gh
+orscippa vorwts  ld
+dmfsvnpkulaba
+oojothmjvhkzmckmd ol
+fpvaq xbaw pz vjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 14 8
+INSERT 14 8
+RIGHT 14 9
+DELETE 14 9
+INSERT 14 9
+RIGHT 14 10
+LEFT 14 9
+RIGHT 14 10
+LEFT 14 9
+INSERT 14 9
+RIGHT 14 10
+INSERT 14 10
+RIGHT 14 11
+RIGHT 14 12
+LEFT 14 11
+RIGHT 14 12
+INSERT 14 12
+INSERT 14 12
+DELETE 14 12
+RIGHT 14 13
+RIGHT 14 14
+INSERT 14 14
+INSERT 14 14
+RIGHT 14 15
+DELETE 14 15
+INSERT 14 15
+INSERT 14 15
+DELETE 14 15
+RIGHT 14 16
+DELETE 14 16
+RIGHT 14 17
+RIGHT 14 18
+RIGHT 15 0
+RIGHT 15 1
+RIGHT 15 2
+RIGHT 15 3
+LEFT 15 2
+INSERT 15 2
+RIGHT 15 3
+RIGHT 15 4
+RIGHT 15 5
+RIGHT 15 6
+LEFT 15 5
+RIGHT 15 6
+RIGHT 15 7
+INSERT 15 7
+RIGHT 15 8
+LEFT 15 7
+LEFT 15 6
+RIGHT 15 7
+RIGHT 15 8
+RIGHT 15 9
+DELETE 15 9
+RIGHT 15 10
+RIGHT 15 11
+DELETE 15 11
+DELETE 15 11
+RIGHT 15 12
+LEFT 15 11
+RIGHT 15 12
+INSERT 15 12
+RIGHT 15 13
+RIGHT 15 14
+RIGHT 15 15
+LEFT 15 14
+RIGHT 15 15
+RIGHT 15 16
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTyd 
+u  ibssqvfpfnlngzts
+ugdpiqm rnbnu
+mjhqp mh si
+oydxvxmneukumtxt uq
+iwr nxpmp gh
+orscippa vorwts  ld
+dmfsvnpkulaba
+oojothmjvhkzmckmd ol
+fpvaq xbaw pz vjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 15 16
+DELETE 15 16
+INSERT 15 16
+DELETE 15 16
+LEFT 15 15
+INSERT 15 15
+DELETE 15 15
+INSERT 15 15
+RIGHT 15 16
+DELETE 15 16
+DELETE 15 16
+RIGHT 16 0
+INSERT 16 0
+RIGHT 16 1
+RIGHT 16 2
+RIGHT 16 3
+DELETE 16 3
+RIGHT 16 4
+RIGHT 16 5
+LEFT 16 4
+LEFT 16 3
+INSERT 16 3
+DELETE 16 3
+RIGHT 16 4
+DELETE 16 4
+RIGHT 16 5
+LEFT 16 4
+RIGHT 16 5
+INSERT 16 5
+INSERT 16 5
+RIGHT 16 6
+RIGHT 16 7
+INSERT 16 7
+RIGHT 16 8
+LEFT 16 7
+RIGHT 16 8
+RIGHT 16 9
+RIGHT 16 10
+LEFT 16 9
+RIGHT 16 10
+RIGHT 16 11
+RIGHT 16 12
+RIGHT 16 13
+RIGHT 16 14
+DELETE 16 14
+INSERT 16 14
+RIGHT 16 15
+INSERT 16 15
+RIGHT 16 16
+INSERT 16 16
+DELETE 16 16
+RIGHT 16 17
+DELETE 16 17
+DELETE 16 17
+RIGHT 17 0
+RIGHT 17 1
+RIGHT 17 2
+DELETE 17 2
+RIGHT 17 3
+RIGHT 17 4
+INSERT 17 4
+RIGHT 17 5
+INSERT 17 5
+RIGHT 17 6
+RIGHT 17 7
+RIGHT 17 8
+INSERT 17 8
+DELETE 17 8
+RIGHT 17 9
+RIGHT 17 10
+RIGHT 17 11
+RIGHT 17 12
+RIGHT 17 13
+RIGHT 17 14
+RIGHT 18 0
+RIGHT 18 1
+INSERT 18 1
+RIGHT 18 2
+LEFT 18 1
+RIGHT 18 2
+INSERT 18 2
+INSERT 18 2
+RIGHT 18 3
+LEFT 18 2
+INSERT 18 2
+INSERT 18 2
+INSERT 18 2
+INSERT 18 2
+RIGHT 18 3
+RIGHT 18 4
+LEFT 18 3
+INSERT 18 3
+RIGHT 18 4
+LEFT 18 3
+INSERT 18 3
+RIGHT 18 4
+DELETE 18 4
+DELETE 18 4
+DELETE 18 4
+RIGHT 18 5
+RIGHT 18 6
+LEFT 18 5
+DELETE 18 5
+DELETE 18 5
+DELETE 18 5
+RIGHT 18 6
+RIGHT 18 7
+DELETE 18 7
+INSERT 18 7
+DELETE 18 7
+DELETE 18 7
+DELETE 18 7
+RIGHT 18 8
+RIGHT 18 9
+RIGHT 18 10
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxmneukumtxt uq
+iwr nxpmp gh
+orscippa vorwts  ld
+dmfsvnpkulaba
+oojothmjvhkzmckmd ol
+fpvaq xbaw pz vjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+INSERT 18 10
+DELETE 18 10
+LEFT 18 9
+RIGHT 18 10
+RIGHT 18 11
+RIGHT 19 0
+RIGHT 19 1
+RIGHT 19 2
+RIGHT 19 3
+LEFT 19 2
+RIGHT 19 3
+RIGHT 19 4
+RIGHT 19 5
+RIGHT 19 6
+RIGHT 19 7
+LEFT 19 6
+INSERT 19 6
+RIGHT 19 7
+RIGHT 19 8
+RIGHT 19 9
+INSERT 19 9
+LEFT 19 8
+RIGHT 19 9
+DELETE 19 9
+RIGHT 19 10
+RIGHT 19 11
+LEFT 19 10
+RIGHT 19 11
+LEFT 19 10
+RIGHT 19 11
+INSERT 19 11
+DELETE 19 11
+INSERT 19 11
+INSERT 19 11
+INSERT 19 11
+RIGHT 19 12
+RIGHT 19 13
+RIGHT 19 14
+RIGHT 19 15
+RIGHT 19 16
+DELETE 19 16
+LEFT 19 15
+RIGHT 19 16
+RIGHT 19 17
+DELETE 19 17
+INSERT 19 17
+LEFT 19 16
+LEFT 19 15
+LEFT 19 14
+RIGHT 19 15
+INSERT 19 15
+DELETE 19 15
+RIGHT 19 16
+RIGHT 19 17
+LEFT 19 16
+RIGHT 19 17
+DELETE 19 17
+INSERT 19 17
+INSERT 19 17
+RIGHT 19 18
+INSERT 19 18
+INSERT 19 18
+RIGHT 19 19
+RIGHT 19 20
+DELETE 19 20
+RIGHT 20 0
+RIGHT 20 1
+DELETE 20 1
+LEFT 20 0
+DELETE 20 0
+INSERT 20 0
+INSERT 20 0
+DELETE 20 0
+RIGHT 20 1
+INSERT 20 1
+RIGHT 20 2
+INSERT 20 2
+RIGHT 20 3
+RIGHT 20 4
+DELETE 20 4
+RIGHT 20 5
+RIGHT 20 6
+RIGHT 20 7
+DELETE 20 7
+LEFT 20 6
+INSERT 20 6
+DELETE 20 6
+RIGHT 20 7
+DELETE 20 7
+DELETE 20 7
+RIGHT 20 8
+DELETE 20 8
+INSERT 20 8
+RIGHT 20 9
+RIGHT 21 0
+DELETE 21 0
+DELETE 21 0
+RIGHT 21 1
+INSERT 21 1
+DELETE 21 1
+RIGHT 21 2
+RIGHT 21 3
+RIGHT 21 4
+RIGHT 21 5
+INSERT 21 5
+RIGHT 21 6
+RIGHT 21 7
+RIGHT 21 8
+INSERT 21 8
+INSERT 21 8
+INSERT 21 8
+DELETE 21 8
+INSERT 21 8
+RIGHT 21 9
+INSERT 21 9
+DELETE 21 9
+DELETE 21 9
+DELETE 21 9
+RIGHT 21 10
+INSERT 21 10
+RIGHT 21 11
+RIGHT 21 12
+DELETE 21 12
+RIGHT 21 13
+DELETE 21 13
+RIGHT 21 14
+INSERT 21 14
+LEFT 21 13
+DELETE 21 13
+INSERT 21 13
+RIGHT 21 14
+RIGHT 21 15
+INSERT 21 15
+DELETE 21 15
+INSERT 21 15
+DELETE 21 15
+INSERT 21 15
+INSERT 21 15
+LEFT 21 14
+RIGHT 21 15
+INSERT 21 15
+RIGHT 21 16
+DELETE 21 16
+RIGHT 21 17
+INSERT 21 17
+INSERT 21 17
+INSERT 21 17
+RIGHT 21 18
+RIGHT 21 19
+RIGHT 21 20
+LEFT 21 19
+LEFT 21 18
+RIGHT 21 19
+INSERT 21 19
+RIGHT 21 20
+LEFT 21 19
+DELETE 21 19
+INSERT 21 19
+RIGHT 21 20
+RIGHT 22 0
+RIGHT 22 1
+RIGHT 22 2
+RIGHT 22 3
+RIGHT 22 4
+INSERT 22 4
+DELETE 22 4
+LEFT 22 3
+DELETE 22 3
+RIGHT 22 4
+LEFT 22 3
+DELETE 22 3
+RIGHT 22 4
+INSERT 22 4
+LEFT 22 3
+INSERT 22 3
+LEFT 22 2
+RIGHT 22 3
+LEFT 22 2
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dmfsnKpkulaba
+oojothmjvhkzmckmd ol
+fpvaq xbaw pz vjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+INSERT 22 2
+RIGHT 22 3
+INSERT 22 3
+RIGHT 22 4
+DELETE 22 4
+DELETE 22 4
+INSERT 22 4
+DELETE 22 4
+INSERT 22 4
+RIGHT 22 5
+LEFT 22 4
+INSERT 22 4
+INSERT 22 4
+DELETE 22 4
+RIGHT 22 5
+RIGHT 22 6
+RIGHT 22 7
+RIGHT 22 8
+RIGHT 22 9
+DELETE 22 9
+RIGHT 22 10
+DELETE 22 10
+LEFT 22 9
+INSERT 22 9
+RIGHT 22 10
+RIGHT 22 11
+LEFT 22 10
+RIGHT 22 11
+RIGHT 22 12
+INSERT 22 12
+INSERT 22 12
+RIGHT 22 13
+RIGHT 22 14
+RIGHT 22 15
+RIGHT 22 16
+RIGHT 23 0
+INSERT 23 0
+RIGHT 23 1
+RIGHT 23 2
+RIGHT 23 3
+INSERT 23 3
+RIGHT 23 4
+RIGHT 23 5
+INSERT 23 5
+LEFT 23 4
+INSERT 23 4
+RIGHT 23 5
+INSERT 23 5
+RIGHT 23 6
+LEFT 23 5
+RIGHT 23 6
+DELETE 23 6
+DELETE 23 6
+DELETE 23 6
+LEFT 23 5
+RIGHT 23 6
+INSERT 23 6
+DELETE 23 6
+RIGHT 23 7
+INSERT 23 7
+RIGHT 23 8
+DELETE 23 8
+RIGHT 23 9
+RIGHT 23 10
+INSERT 23 10
+RIGHT 23 11
+RIGHT 23 12
+INSERT 23 12
+INSERT 23 12
+RIGHT 23 13
+RIGHT 23 14
+RIGHT 23 15
+RIGHT 23 16
+RIGHT 23 17
+RIGHT 23 18
+INSERT 23 18
+RIGHT 23 19
+INSERT 23 19
+DELETE 23 19
+DELETE 23 19
+DELETE 23 19
+RIGHT 24 0
+LEFT 23 19
+RIGHT 24 0
+INSERT 24 0
+INSERT 24 0
+RIGHT 24 1
+RIGHT 24 2
+RIGHT 24 3
+RIGHT 24 4
+DELETE 24 4
+RIGHT 24 5
+RIGHT 24 6
+DELETE 24 6
+RIGHT 24 7
+INSERT 24 7
+DELETE 24 7
+INSERT 24 7
+RIGHT 24 8
+INSERT 24 8
+DELETE 24 8
+RIGHT 24 9
+INSERT 24 9
+RIGHT 24 10
+RIGHT 24 11
+INSERT 24 11
+RIGHT 24 12
+INSERT 24 12
+RIGHT 24 13
+DELETE 24 13
+RIGHT 24 14
+RIGHT 24 15
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+j  invkbnib
+mgtanoa hzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 24 16
+RIGHT 24 17
+LEFT 24 16
+LEFT 24 15
+RIGHT 24 16
+INSERT 24 16
+INSERT 24 16
+DELETE 24 16
+RIGHT 24 17
+RIGHT 24 18
+RIGHT 24 19
+RIGHT 25 0
+DELETE 25 0
+RIGHT 25 1
+RIGHT 25 2
+LEFT 25 1
+DELETE 25 1
+RIGHT 25 2
+RIGHT 25 3
+RIGHT 25 4
+INSERT 25 4
+INSERT 25 4
+RIGHT 25 5
+INSERT 25 5
+LEFT 25 4
+DELETE 25 4
+DELETE 25 4
+INSERT 25 4
+LEFT 25 3
+INSERT 25 3
+DELETE 25 3
+DELETE 25 3
+DELETE 25 3
+DELETE 25 3
+RIGHT 25 4
+RIGHT 25 5
+DELETE 25 5
+RIGHT 25 6
+DELETE 25 6
+RIGHT 26 0
+RIGHT 26 1
+RIGHT 26 2
+INSERT 26 2
+RIGHT 26 3
+RIGHT 26 4
+DELETE 26 4
+DELETE 26 4
+RIGHT 26 5
+RIGHT 26 6
+RIGHT 26 7
+RIGHT 26 8
+LEFT 26 7
+INSERT 26 7
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa hVzqbugpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 26 6
+DELETE 26 6
+RIGHT 26 7
+INSERT 26 7
+RIGHT 26 8
+RIGHT 26 9
+DELETE 26 9
+DELETE 26 9
+DELETE 26 9
+RIGHT 26 10
+INSERT 26 10
+INSERT 26 10
+INSERT 26 10
+DELETE 26 10
+RIGHT 26 11
+LEFT 26 10
+RIGHT 26 11
+INSERT 26 11
+RIGHT 26 12
+LEFT 26 11
+INSERT 26 11
+LEFT 26 10
+DELETE 26 10
+DELETE 26 10
+LEFT 26 9
+DELETE 26 9
+DELETE 26 9
+INSERT 26 9
+DELETE 26 9
+INSERT 26 9
+DELETE 26 9
+INSERT 26 9
+RIGHT 26 10
+INSERT 26 10
+RIGHT 26 11
+RIGHT 26 12
+INSERT 26 12
+LEFT 26 11
+LEFT 26 10
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLxpatwgu
+zzv o xaeewsjh
+nvochkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 26 11
+RIGHT 26 12
+INSERT 26 12
+RIGHT 26 13
+RIGHT 26 14
+RIGHT 26 15
+DELETE 26 15
+DELETE 26 15
+DELETE 26 15
+RIGHT 26 16
+RIGHT 26 17
+RIGHT 27 0
+RIGHT 27 1
+RIGHT 27 2
+INSERT 27 2
+RIGHT 27 3
+RIGHT 27 4
+RIGHT 27 5
+LEFT 27 4
+DELETE 27 4
+RIGHT 27 5
+RIGHT 27 6
+RIGHT 27 7
+LEFT 27 6
+RIGHT 27 7
+DELETE 27 7
+INSERT 27 7
+INSERT 27 7
+DELETE 27 7
+RIGHT 27 8
+INSERT 27 8
+RIGHT 27 9
+INSERT 27 9
+RIGHT 27 10
+INSERT 27 10
+INSERT 27 10
+INSERT 27 10
+INSERT 27 10
+DELETE 27 10
+LEFT 27 9
+INSERT 27 9
+RIGHT 27 10
+INSERT 27 10
+INSERT 27 10
+RIGHT 27 11
+LEFT 27 10
+INSERT 27 10
+DELETE 27 10
+RIGHT 27 11
+INSERT 27 11
+INSERT 27 11
+LEFT 27 10
+LEFT 27 9
+INSERT 27 9
+RIGHT 27 10
+RIGHT 27 11
+RIGHT 27 12
+RIGHT 27 13
+RIGHT 27 14
+LEFT 27 13
+DELETE 27 13
+DELETE 27 13
+INSERT 27 13
+LEFT 27 12
+DELETE 27 12
+RIGHT 27 13
+INSERT 27 13
+RIGHT 27 14
+DELETE 27 14
+DELETE 27 14
+DELETE 27 14
+RIGHT 27 15
+RIGHT 27 16
+DELETE 27 16
+INSERT 27 16
+RIGHT 27 17
+RIGHT 28 0
+DELETE 28 0
+RIGHT 28 1
+DELETE 28 1
+INSERT 28 1
+DELETE 28 1
+RIGHT 28 2
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vchkbrsq
+tvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 28 1
+DELETE 28 1
+INSERT 28 1
+RIGHT 28 2
+LEFT 28 1
+RIGHT 28 2
+INSERT 28 2
+INSERT 28 2
+RIGHT 28 3
+RIGHT 28 4
+DELETE 28 4
+INSERT 28 4
+LEFT 28 3
+DELETE 28 3
+RIGHT 28 4
+INSERT 28 4
+INSERT 28 4
+LEFT 28 3
+INSERT 28 3
+INSERT 28 3
+LEFT 28 2
+RIGHT 28 3
+INSERT 28 3
+DELETE 28 3
+INSERT 28 3
+RIGHT 28 4
+INSERT 28 4
+INSERT 28 4
+RIGHT 28 5
+DELETE 28 5
+LEFT 28 4
+LEFT 28 3
+RIGHT 28 4
+RIGHT 28 5
+RIGHT 28 6
+INSERT 28 6
+RIGHT 28 7
+RIGHT 28 8
+RIGHT 28 9
+INSERT 28 9
+INSERT 28 9
+RIGHT 28 10
+RIGHT 28 11
+LEFT 28 10
+INSERT 28 10
+RIGHT 28 11
+LEFT 28 10
+RIGHT 28 11
+INSERT 28 11
+RIGHT 28 12
+RIGHT 28 13
+RIGHT 28 14
+LEFT 28 13
+RIGHT 28 14
+DELETE 28 14
+LEFT 28 13
+RIGHT 28 14
+LEFT 28 13
+RIGHT 28 14
+DELETE 28 14
+DELETE 28 14
+INSERT 28 14
+LEFT 28 13
+LEFT 28 12
+DELETE 28 12
+LEFT 28 11
+DELETE 28 11
+DELETE 28 11
+LEFT 28 10
+INSERT 28 10
+RIGHT 28 11
+RIGHT 28 12
+RIGHT 28 13
+RIGHT 28 14
+LEFT 28 13
+INSERT 28 13
+INSERT 28 13
+RIGHT 28 14
+RIGHT 28 15
+LEFT 28 14
+DELETE 28 14
+RIGHT 28 15
+LEFT 28 14
+DELETE 28 14
+DELETE 28 14
+LEFT 28 13
+DELETE 28 13
+RIGHT 28 14
+RIGHT 29 0
+INSERT 29 0
+LEFT 28 14
+RIGHT 29 0
+RIGHT 29 1
+RIGHT 29 2
+INSERT 29 2
+INSERT 29 2
+INSERT 29 2
+RIGHT 29 3
+RIGHT 29 4
+RIGHT 29 5
+INSERT 29 5
+INSERT 29 5
+LEFT 29 4
+LEFT 29 3
+LEFT 29 2
+LEFT 29 1
+LEFT 29 0
+INSERT 29 0
+INSERT 29 0
+DELETE 29 0
+INSERT 29 0
+RIGHT 29 1
+RIGHT 29 2
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDvkpedhcodwemr
+rlvtxstrhpoypta
+ hxbjbqdboie
+cy z kttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+INSERT 29 2
+RIGHT 29 3
+RIGHT 29 4
+RIGHT 29 5
+RIGHT 29 6
+INSERT 29 6
+RIGHT 29 7
+DELETE 29 7
+RIGHT 29 8
+INSERT 29 8
+RIGHT 29 9
+DELETE 29 9
+INSERT 29 9
+RIGHT 29 10
+INSERT 29 10
+RIGHT 29 11
+DELETE 29 11
+RIGHT 29 12
+LEFT 29 11
+INSERT 29 11
+RIGHT 29 12
+RIGHT 29 13
+DELETE 29 13
+RIGHT 29 14
+RIGHT 29 15
+RIGHT 29 16
+INSERT 29 16
+DELETE 29 16
+RIGHT 29 17
+RIGHT 29 18
+RIGHT 29 19
+INSERT 29 19
+RIGHT 29 20
+DELETE 29 20
+RIGHT 30 0
+INSERT 30 0
+RIGHT 30 1
+RIGHT 30 2
+RIGHT 30 3
+DELETE 30 3
+RIGHT 30 4
+INSERT 30 4
+LEFT 30 3
+RIGHT 30 4
+RIGHT 30 5
+DELETE 30 5
+RIGHT 30 6
+RIGHT 30 7
+DELETE 30 7
+RIGHT 30 8
+INSERT 30 8
+INSERT 30 8
+RIGHT 30 9
+RIGHT 30 10
+RIGHT 30 11
+LEFT 30 10
+INSERT 30 10
+RIGHT 30 11
+DELETE 30 11
+DELETE 30 11
+RIGHT 30 12
+RIGHT 30 13
+DELETE 30 13
+RIGHT 30 14
+RIGHT 31 0
+DELETE 31 0
+INSERT 31 0
+RIGHT 31 1
+RIGHT 31 2
+RIGHT 31 3
+DELETE 31 3
+INSERT 31 3
+LEFT 31 2
+INSERT 31 2
+INSERT 31 2
+INSERT 31 2
+INSERT 31 2
+RIGHT 31 3
+INSERT 31 3
+LEFT 31 2
+DELETE 31 2
+INSERT 31 2
+RIGHT 31 3
+DELETE 31 3
+RIGHT 31 4
+INSERT 31 4
+LEFT 31 3
+INSERT 31 3
+RIGHT 31 4
+DELETE 31 4
+INSERT 31 4
+RIGHT 31 5
+RIGHT 31 6
+RIGHT 31 7
+RIGHT 31 8
+INSERT 31 8
+INSERT 31 8
+RIGHT 31 9
+RIGHT 31 10
+INSERT 31 10
+DELETE 31 10
+DELETE 31 10
+RIGHT 31 11
+RIGHT 31 12
+DELETE 31 12
+DELETE 31 12
+DELETE 31 12
+RIGHT 31 13
+LEFT 31 12
+RIGHT 31 13
+INSERT 31 13
+INSERT 31 13
+RIGHT 31 14
+RIGHT 31 15
+DELETE 31 15
+LEFT 31 14
+RIGHT 31 15
+RIGHT 31 16
+LEFT 31 15
+DELETE 31 15
+RIGHT 32 0
+LEFT 31 15
+INSERT 31 15
+RIGHT 31 16
+DELETE 31 16
+RIGHT 32 0
+RIGHT 32 1
+RIGHT 32 2
+DELETE 32 2
+RIGHT 32 3
+LEFT 32 2
+RIGHT 32 3
+RIGHT 32 4
+LEFT 32 3
+RIGHT 32 4
+INSERT 32 4
+LEFT 32 3
+INSERT 32 3
+LEFT 32 2
+RIGHT 32 3
+RIGHT 32 4
+DELETE 32 4
+DELETE 32 4
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzUkttbyzsa
+mrsbqecca  xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 32 3
+DELETE 32 3
+INSERT 32 3
+RIGHT 32 4
+RIGHT 32 5
+RIGHT 32 6
+RIGHT 32 7
+RIGHT 32 8
+DELETE 32 8
+INSERT 32 8
+LEFT 32 7
+INSERT 32 7
+INSERT 32 7
+INSERT 32 7
+LEFT 32 6
+LEFT 32 5
+RIGHT 32 6
+DELETE 32 6
+RIGHT 32 7
+RIGHT 32 8
+RIGHT 32 9
+RIGHT 32 10
+RIGHT 32 11
+INSERT 32 11
+INSERT 32 11
+RIGHT 32 12
+LEFT 32 11
+RIGHT 32 12
+INSERT 32 12
+LEFT 32 11
+RIGHT 32 12
+RIGHT 32 13
+DELETE 32 13
+INSERT 32 13
+RIGHT 32 14
+RIGHT 32 15
+DELETE 32 15
+RIGHT 32 16
+LEFT 32 15
+RIGHT 32 16
+RIGHT 33 0
+RIGHT 33 1
+INSERT 33 1
+RIGHT 33 2
+RIGHT 33 3
+INSERT 33 3
+RIGHT 33 4
+DELETE 33 4
+DELETE 33 4
+LEFT 33 3
+RIGHT 33 4
+LEFT 33 3
+LEFT 33 2
+DELETE 33 2
+DELETE 33 2
+RIGHT 33 3
+DELETE 33 3
+DELETE 33 3
+INSERT 33 3
+LEFT 33 2
+DELETE 33 2
+LEFT 33 1
+RIGHT 33 2
+INSERT 33 2
+DELETE 33 2
+RIGHT 33 3
+RIGHT 33 4
+RIGHT 33 5
+RIGHT 33 6
+INSERT 33 6
+INSERT 33 6
+INSERT 33 6
+RIGHT 33 7
+RIGHT 33 8
+INSERT 33 8
+RIGHT 33 9
+INSERT 33 9
+DELETE 33 9
+LEFT 33 8
+RIGHT 33 9
+DELETE 33 9
+RIGHT 33 10
+RIGHT 33 11
+LEFT 33 10
+INSERT 33 10
+INSERT 33 10
+RIGHT 33 11
+RIGHT 33 12
+RIGHT 33 13
+RIGHT 33 14
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xn
+fdspcsoomlw
+vde mpjcev w  e
+ uvoc qbafokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 33 14
+RIGHT 34 0
+INSERT 34 0
+INSERT 34 0
+LEFT 33 14
+INSERT 33 14
+RIGHT 33 15
+RIGHT 34 0
+RIGHT 34 1
+RIGHT 34 2
+RIGHT 34 3
+INSERT 34 3
+RIGHT 34 4
+DELETE 34 4
+INSERT 34 4
+RIGHT 34 5
+INSERT 34 5
+RIGHT 34 6
+INSERT 34 6
+LEFT 34 5
+RIGHT 34 6
+RIGHT 34 7
+RIGHT 34 8
+DELETE 34 8
+RIGHT 34 9
+DELETE 34 9
+INSERT 34 9
+INSERT 34 9
+INSERT 34 9
+RIGHT 34 10
+INSERT 34 10
+INSERT 34 10
+RIGHT 34 11
+INSERT 34 11
+RIGHT 34 12
+LEFT 34 11
+LEFT 34 10
+RIGHT 34 11
+INSERT 34 11
+DELETE 34 11
+DELETE 34 11
+RIGHT 34 12
+INSERT 34 12
+INSERT 34 12
+LEFT 34 11
+RIGHT 34 12
+RIGHT 34 13
+LEFT 34 12
+RIGHT 34 13
+INSERT 34 13
+DELETE 34 13
+LEFT 34 12
+DELETE 34 12
+INSERT 34 12
+DELETE 34 12
+INSERT 34 12
+LEFT 34 11
+RIGHT 34 12
+INSERT 34 12
+RIGHT 34 13
+RIGHT 34 14
+RIGHT 34 15
+RIGHT 34 16
+DELETE 34 16
+DELETE 34 16
+DELETE 34 16
+RIGHT 34 17
+LEFT 34 16
+RIGHT 34 17
+DELETE 34 17
+DELETE 34 17
+RIGHT 35 0
+RIGHT 35 1
+INSERT 35 1
+INSERT 35 1
+RIGHT 35 2
+DELETE 35 2
+LEFT 35 1
+INSERT 35 1
+RIGHT 35 2
+RIGHT 35 3
+DELETE 35 3
+RIGHT 35 4
+LEFT 35 3
+RIGHT 35 4
+LEFT 35 3
+INSERT 35 3
+RIGHT 35 4
+RIGHT 35 5
+RIGHT 35 6
+INSERT 35 6
+RIGHT 35 7
+RIGHT 35 8
+INSERT 35 8
+RIGHT 35 9
+RIGHT 35 10
+INSERT 35 10
+DELETE 35 10
+INSERT 35 10
+DELETE 35 10
+INSERT 35 10
+RIGHT 35 11
+RIGHT 35 12
+RIGHT 35 13
+RIGHT 35 14
+RIGHT 35 15
+RIGHT 35 16
+RIGHT 35 17
+RIGHT 35 18
+RIGHT 35 19
+RIGHT 35 20
+DELETE 35 20
+INSERT 35 20
+RIGHT 36 0
+LEFT 35 20
+DELETE 35 20
+INSERT 35 20
+INSERT 35 20
+DELETE 35 20
+LEFT 35 19
+RIGHT 35 20
+DELETE 35 20
+RIGHT 36 0
+INSERT 36 0
+RIGHT 36 1
+RIGHT 36 2
+LEFT 36 1
+LEFT 36 0
+INSERT 36 0
+DELETE 36 0
+RIGHT 36 1
+INSERT 36 1
+RIGHT 36 2
+DELETE 36 2
+DELETE 36 2
+LEFT 36 1
+RIGHT 36 2
+INSERT 36 2
+RIGHT 36 3
+RIGHT 36 4
+RIGHT 36 5
+RIGHT 36 6
+RIGHT 36 7
+LEFT 36 6
+LEFT 36 5
+RIGHT 36 6
+DELETE 36 6
+INSERT 36 6
+LEFT 36 5
+RIGHT 36 6
+RIGHT 36 7
+RIGHT 36 8
+LEFT 36 7
+RIGHT 36 8
+RIGHT 36 9
+INSERT 36 9
+INSERT 36 9
+RIGHT 36 10
+INSERT 36 10
+RIGHT 36 11
+DELETE 36 11
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbUaokjokurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 36 10
+DELETE 36 10
+RIGHT 36 11
+LEFT 36 10
+INSERT 36 10
+RIGHT 36 11
+RIGHT 36 12
+DELETE 36 12
+LEFT 36 11
+RIGHT 36 12
+INSERT 36 12
+DELETE 36 12
+RIGHT 36 13
+RIGHT 36 14
+INSERT 36 14
+RIGHT 36 15
+INSERT 36 15
+RIGHT 36 16
+RIGHT 36 17
+LEFT 36 16
+RIGHT 36 17
+LEFT 36 16
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkurj
+cp  rtghcpgbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+INSERT 36 16
+INSERT 36 16
+RIGHT 36 17
+DELETE 36 17
+LEFT 36 16
+RIGHT 36 17
+RIGHT 36 18
+RIGHT 36 19
+DELETE 36 19
+RIGHT 37 0
+LEFT 36 19
+RIGHT 37 0
+LEFT 36 19
+DELETE 36 19
+RIGHT 37 0
+RIGHT 37 1
+RIGHT 37 2
+RIGHT 37 3
+RIGHT 37 4
+RIGHT 37 5
+RIGHT 37 6
+DELETE 37 6
+INSERT 37 6
+INSERT 37 6
+RIGHT 37 7
+RIGHT 37 8
+DELETE 37 8
+LEFT 37 7
+RIGHT 37 8
+DELETE 37 8
+LEFT 37 7
+RIGHT 37 8
+RIGHT 37 9
+RIGHT 37 10
+INSERT 37 10
+INSERT 37 10
+LEFT 37 9
+RIGHT 37 10
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBbr
+jofzhpzrtqpeqpaxye
+m baqrjlxe
+pd guhgrtnpolv
+lsxppxa bfs
+auqboftpwpj
+puijrrhrhbxgnwphmqj
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 37 11
+RIGHT 37 12
+INSERT 37 12
+RIGHT 37 13
+DELETE 37 13
+RIGHT 37 14
+RIGHT 38 0
+RIGHT 38 1
+LEFT 38 0
+RIGHT 38 1
+DELETE 38 1
+RIGHT 38 2
+RIGHT 38 3
+INSERT 38 3
+INSERT 38 3
+RIGHT 38 4
+RIGHT 38 5
+INSERT 38 5
+INSERT 38 5
+LEFT 38 4
+RIGHT 38 5
+INSERT 38 5
+RIGHT 38 6
+RIGHT 38 7
+INSERT 38 7
+RIGHT 38 8
+INSERT 38 8
+INSERT 38 8
+RIGHT 38 9
+RIGHT 38 10
+RIGHT 38 11
+RIGHT 38 12
+INSERT 38 12
+DELETE 38 12
+RIGHT 38 13
+RIGHT 38 14
+RIGHT 38 15
+INSERT 38 15
+RIGHT 38 16
+RIGHT 38 17
+RIGHT 38 18
+LEFT 38 17
+INSERT 38 17
+LEFT 38 16
+INSERT 38 16
+RIGHT 38 17
+RIGHT 38 18
+RIGHT 38 19
+LEFT 38 18
+RIGHT 38 19
+RIGHT 38 20
+LEFT 38 19
+DELETE 38 19
+INSERT 38 19
+RIGHT 38 20
+LEFT 38 19
+RIGHT 38 20
+RIGHT 39 0
+INSERT 39 0
+LEFT 38 20
+INSERT 38 20
+RIGHT 39 0
+RIGHT 39 1
+DELETE 39 1
+DELETE 39 1
+INSERT 39 1
+RIGHT 39 2
+DELETE 39 2
+INSERT 39 2
+INSERT 39 2
+RIGHT 39 3
+LEFT 39 2
+RIGHT 39 3
+DELETE 39 3
+LEFT 39 2
+INSERT 39 2
+RIGHT 39 3
+DELETE 39 3
+RIGHT 39 4
+RIGHT 39 5
+INSERT 39 5
+DELETE 39 5
+RIGHT 39 6
+RIGHT 39 7
+INSERT 39 7
+INSERT 39 7
+INSERT 39 7
+RIGHT 39 8
+RIGHT 39 9
+INSERT 39 9
+RIGHT 39 10
+RIGHT 39 11
+RIGHT 39 12
+DELETE 39 12
+RIGHT 39 13
+RIGHT 40 0
+RIGHT 40 1
+RIGHT 40 2
+RIGHT 40 3
+RIGHT 40 4
+RIGHT 40 5
+RIGHT 40 6
+DELETE 40 6
+INSERT 40 6
+DELETE 40 6
+INSERT 40 6
+RIGHT 40 7
+RIGHT 40 8
+RIGHT 40 9
+INSERT 40 9
+LEFT 40 8
+INSERT 40 8
+LEFT 40 7
+RIGHT 40 8
+RIGHT 40 9
+DELETE 40 9
+RIGHT 40 10
+INSERT 40 10
+RIGHT 40 11
+RIGHT 40 12
+RIGHT 40 13
+RIGHT 40 14
+RIGHT 40 15
+RIGHT 40 16
+RIGHT 41 0
+LEFT 40 16
+DELETE 40 16
+RIGHT 41 0
+RIGHT 41 1
+LEFT 41 0
+RIGHT 41 1
+RIGHT 41 2
+DELETE 41 2
+LEFT 41 1
+RIGHT 41 2
+DELETE 41 2
+DELETE 41 2
+RIGHT 41 3
+RIGHT 41 4
+LEFT 41 3
+RIGHT 41 4
+INSERT 41 4
+LEFT 41 3
+RIGHT 41 4
+RIGHT 41 5
+RIGHT 41 6
+RIGHT 41 7
+RIGHT 41 8
+RIGHT 41 9
+LEFT 41 8
+LEFT 41 7
+RIGHT 41 8
+RIGHT 41 9
+DELETE 41 9
+RIGHT 42 0
+RIGHT 42 1
+RIGHT 42 2
+INSERT 42 2
+DELETE 42 2
+RIGHT 42 3
+INSERT 42 3
+RIGHT 42 4
+INSERT 42 4
+INSERT 42 4
+INSERT 42 4
+LEFT 42 3
+DELETE 42 3
+DELETE 42 3
+INSERT 42 3
+LEFT 42 2
+DELETE 42 2
+RIGHT 42 3
+LEFT 42 2
+RIGHT 42 3
+RIGHT 42 4
+RIGHT 42 5
+INSERT 42 5
+RIGHT 42 6
+INSERT 42 6
+RIGHT 42 7
+RIGHT 42 8
+DELETE 42 8
+INSERT 42 8
+DELETE 42 8
+RIGHT 42 9
+DELETE 42 9
+RIGHT 42 10
+RIGHT 42 11
+RIGHT 42 12
+INSERT 42 12
+DELETE 42 12
+RIGHT 42 13
+LEFT 42 12
+INSERT 42 12
+INSERT 42 12
+DELETE 42 12
+LEFT 42 11
+RIGHT 42 12
+RIGHT 42 13
+RIGHT 42 14
+DELETE 42 14
+DELETE 42 14
+DELETE 42 14
+RIGHT 43 0
+RIGHT 43 1
+LEFT 43 0
+INSERT 43 0
+LEFT 42 14
+DELETE 42 14
+RIGHT 43 0
+INSERT 43 0
+DELETE 43 0
+INSERT 43 0
+DELETE 43 0
+RIGHT 43 1
+RIGHT 43 2
+LEFT 43 1
+RIGHT 43 2
+LEFT 43 1
+RIGHT 43 2
+RIGHT 43 3
+DELETE 43 3
+DELETE 43 3
+DELETE 43 3
+DELETE 43 3
+INSERT 43 3
+INSERT 43 3
+RIGHT 43 4
+RIGHT 43 5
+LEFT 43 4
+DELETE 43 4
+RIGHT 43 5
+RIGHT 43 6
+DELETE 43 6
+LEFT 43 5
+DELETE 43 5
+DELETE 43 5
+RIGHT 43 6
+DELETE 43 6
+LEFT 43 5
+RIGHT 43 6
+RIGHT 43 7
+DELETE 43 7
+RIGHT 43 8
+RIGHT 43 9
+INSERT 43 9
+DELETE 43 9
+RIGHT 43 10
+DELETE 43 10
+RIGHT 44 0
+RIGHT 44 1
+RIGHT 44 2
+RIGHT 44 3
+INSERT 44 3
+RIGHT 44 4
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx dxowks b yhrd ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 44 4
+INSERT 44 4
+RIGHT 44 5
+RIGHT 44 6
+RIGHT 44 7
+RIGHT 44 8
+DELETE 44 8
+RIGHT 44 9
+INSERT 44 9
+LEFT 44 8
+RIGHT 44 9
+RIGHT 44 10
+DELETE 44 10
+RIGHT 44 11
+RIGHT 44 12
+DELETE 44 12
+RIGHT 44 13
+RIGHT 44 14
+RIGHT 44 15
+INSERT 44 15
+RIGHT 44 16
+RIGHT 44 17
+RIGHT 44 18
+RIGHT 44 19
+DELETE 44 19
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 45 0
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zthz wxpyavkmqn
+lwuepsqz pdtio eh
+qiwncg lyqwkb  g go 
+idjvcikjbgywebqndt 
+i eoprtnjizypjbl
+igj pv adh 
+t cqaalb xst chfape
+ uemuycofkzatdpa
+dg c gdhbhx yntihab
+ ydhc kcyxbl
+ipbguwgxowhev t
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 45 1
+DELETE 45 1
+RIGHT 45 2
+INSERT 45 2
+INSERT 45 2
+RIGHT 45 3
+LEFT 45 2
+RIGHT 45 3
+RIGHT 45 4
+DELETE 45 4
+RIGHT 45 5
+RIGHT 45 6
+DELETE 45 6
+LEFT 45 5
+INSERT 45 5
+LEFT 45 4
+INSERT 45 4
+INSERT 45 4
+RIGHT 45 5
+RIGHT 45 6
+RIGHT 45 7
+RIGHT 45 8
+RIGHT 45 9
+RIGHT 45 10
+RIGHT 45 11
+RIGHT 45 12
+RIGHT 45 13
+DELETE 45 13
+DELETE 45 13
+RIGHT 45 14
+RIGHT 45 15
+RIGHT 46 0
+RIGHT 46 1
+RIGHT 46 2
+DELETE 46 2
+RIGHT 46 3
+RIGHT 46 4
+INSERT 46 4
+DELETE 46 4
+DELETE 46 4
+DELETE 46 4
+RIGHT 46 5
+DELETE 46 5
+INSERT 46 5
+INSERT 46 5
+INSERT 46 5
+RIGHT 46 6
+DELETE 46 6
+INSERT 46 6
+RIGHT 46 7
+RIGHT 46 8
+RIGHT 46 9
+RIGHT 46 10
+INSERT 46 10
+LEFT 46 9
+LEFT 46 8
+INSERT 46 8
+RIGHT 46 9
+DELETE 46 9
+RIGHT 46 10
+RIGHT 46 11
+DELETE 46 11
+INSERT 46 11
+DELETE 46 11
+LEFT 46 10
+INSERT 46 10
+RIGHT 46 11
+DELETE 46 11
+RIGHT 46 12
+RIGHT 46 13
+DELETE 46 13
+INSERT 46 13
+RIGHT 46 14
+DELETE 46 14
+LEFT 46 13
+RIGHT 46 14
+RIGHT 46 15
+INSERT 46 15
+RIGHT 46 16
+LEFT 46 15
+DELETE 46 15
+LEFT 46 14
+RIGHT 46 15
+INSERT 46 15
+LEFT 46 14
+RIGHT 46 15
+DELETE 46 15
+DELETE 46 15
+INSERT 46 15
+DELETE 46 15
+RIGHT 47 0
+RIGHT 47 1
+LEFT 47 0
+RIGHT 47 1
+RIGHT 47 2
+DELETE 47 2
+INSERT 47 2
+INSERT 47 2
+DELETE 47 2
+RIGHT 47 3
+INSERT 47 3
+RIGHT 47 4
+DELETE 47 4
+RIGHT 47 5
+RIGHT 47 6
+RIGHT 47 7
+DELETE 47 7
+LEFT 47 6
+DELETE 47 6
+RIGHT 47 7
+DELETE 47 7
+RIGHT 47 8
+INSERT 47 8
+INSERT 47 8
+DELETE 47 8
+RIGHT 47 9
+INSERT 47 9
+RIGHT 47 10
+DELETE 47 10
+DELETE 47 10
+RIGHT 47 11
+RIGHT 47 12
+RIGHT 47 13
+DELETE 47 13
+LEFT 47 12
+DELETE 47 12
+RIGHT 47 13
+DELETE 47 13
+LEFT 47 12
+DELETE 47 12
+INSERT 47 12
+DELETE 47 12
+DELETE 47 12
+RIGHT 48 0
+DELETE 48 0
+RIGHT 48 1
+DELETE 48 1
+DELETE 48 1
+INSERT 48 1
+RIGHT 48 2
+RIGHT 48 3
+RIGHT 48 4
+DELETE 48 4
+DELETE 48 4
+RIGHT 48 5
+DELETE 48 5
+RIGHT 48 6
+LEFT 48 5
+RIGHT 48 6
+INSERT 48 6
+RIGHT 48 7
+DELETE 48 7
+LEFT 48 6
+RIGHT 48 7
+RIGHT 48 8
+INSERT 48 8
+RIGHT 48 9
+INSERT 48 9
+INSERT 48 9
+DELETE 48 9
+DELETE 48 9
+LEFT 48 8
+RIGHT 48 9
+RIGHT 48 10
+RIGHT 48 11
+RIGHT 48 12
+INSERT 48 12
+RIGHT 48 13
+INSERT 48 13
+RIGHT 48 14
+INSERT 48 14
+DELETE 48 14
+INSERT 48 14
+DELETE 48 14
+INSERT 48 14
+LEFT 48 13
+RIGHT 48 14
+INSERT 48 14
+INSERT 48 14
+DELETE 48 14
+RIGHT 48 15
+RIGHT 48 16
+RIGHT 48 17
+RIGHT 48 18
+INSERT 48 18
+INSERT 48 18
+INSERT 48 18
+INSERT 48 18
+INSERT 48 18
+DELETE 48 18
+RIGHT 48 19
+INSERT 48 19
+DELETE 48 19
+INSERT 48 19
+DELETE 48 19
+DELETE 48 19
+RIGHT 49 0
+RIGHT 49 1
+RIGHT 49 2
+RIGHT 49 3
+DELETE 49 3
+RIGHT 49 4
+RIGHT 49 5
+DELETE 49 5
+RIGHT 49 6
+RIGHT 49 7
+DELETE 49 7
+INSERT 49 7
+RIGHT 49 8
+RIGHT 49 9
+INSERT 49 9
+LEFT 49 8
+RIGHT 49 9
+RIGHT 49 10
+RIGHT 49 11
+RIGHT 49 12
+RIGHT 49 13
+RIGHT 49 14
+INSERT 49 14
+RIGHT 49 15
+LEFT 49 14
+RIGHT 49 15
+DELETE 49 15
+DELETE 49 15
+DELETE 49 15
+LEFT 49 14
+RIGHT 49 15
+RIGHT 50 0
+DELETE 50 0
+RIGHT 50 1
+INSERT 50 1
+RIGHT 50 2
+DELETE 50 2
+DELETE 50 2
+DELETE 50 2
+RIGHT 50 3
+RIGHT 50 4
+DELETE 50 4
+RIGHT 50 5
+DELETE 50 5
+RIGHT 50 6
+RIGHT 51 0
+INSERT 51 0
+RIGHT 51 1
+RIGHT 51 2
+LEFT 51 1
+DELETE 51 1
+LEFT 51 0
+RIGHT 51 1
+INSERT 51 1
+RIGHT 51 2
+RIGHT 51 3
+DELETE 51 3
+LEFT 51 2
+LEFT 51 1
+DELETE 51 1
+RIGHT 51 2
+LEFT 51 1
+RIGHT 51 2
+RIGHT 51 3
+RIGHT 51 4
+RIGHT 51 5
+INSERT 51 5
+INSERT 51 5
+RIGHT 51 6
+RIGHT 51 7
+RIGHT 51 8
+INSERT 51 8
+RIGHT 51 9
+INSERT 51 9
+INSERT 51 9
+RIGHT 51 10
+RIGHT 51 11
+RIGHT 51 12
+RIGHT 51 13
+LEFT 51 12
+RIGHT 51 13
+DELETE 51 13
+INSERT 51 13
+DELETE 51 13
+DELETE 51 13
+LEFT 51 12
+RIGHT 51 13
+INSERT 51 13
+RIGHT 51 14
+DELETE 51 14
+DELETE 51 14
+RIGHT 51 15
+INSERT 51 15
+RIGHT 51 16
+DELETE 51 16
+DELETE 51 16
+RIGHT 52 0
+INSERT 52 0
+RIGHT 52 1
+RIGHT 52 2
+DELETE 52 2
+INSERT 52 2
+INSERT 52 2
+RIGHT 52 3
+DELETE 52 3
+RIGHT 52 4
+RIGHT 52 5
+RIGHT 52 6
+DELETE 52 6
+INSERT 52 6
+RIGHT 52 7
+RIGHT 52 8
+LEFT 52 7
+RIGHT 52 8
+DELETE 52 8
+INSERT 52 8
+INSERT 52 8
+DELETE 52 8
+RIGHT 52 9
+RIGHT 52 10
+RIGHT 52 11
+DELETE 52 11
+DELETE 52 11
+DELETE 52 11
+LEFT 52 10
+DELETE 52 10
+RIGHT 52 11
+RIGHT 52 12
+INSERT 52 12
+LEFT 52 11
+DELETE 52 11
+DELETE 52 11
+LEFT 52 10
+DELETE 52 10
+DELETE 52 10
+DELETE 52 10
+RIGHT 53 0
+RIGHT 53 1
+DELETE 53 1
+INSERT 53 1
+RIGHT 53 2
+RIGHT 53 3
+RIGHT 53 4
+RIGHT 53 5
+INSERT 53 5
+DELETE 53 5
+LEFT 53 4
+INSERT 53 4
+RIGHT 53 5
+DELETE 53 5
+INSERT 53 5
+INSERT 53 5
+LEFT 53 4
+RIGHT 53 5
+RIGHT 53 6
+DELETE 53 6
+RIGHT 53 7
+RIGHT 53 8
+INSERT 53 8
+RIGHT 53 9
+RIGHT 53 10
+INSERT 53 10
+RIGHT 53 11
+RIGHT 53 12
+LEFT 53 11
+INSERT 53 11
+RIGHT 53 12
+RIGHT 53 13
+INSERT 53 13
+RIGHT 53 14
+DELETE 53 14
+INSERT 53 14
+LEFT 53 13
+RIGHT 53 14
+RIGHT 53 15
+RIGHT 53 16
+RIGHT 53 17
+LEFT 53 16
+RIGHT 53 17
+DELETE 53 17
+DELETE 53 17
+RIGHT 53 18
+RIGHT 54 0
+RIGHT 54 1
+LEFT 54 0
+RIGHT 54 1
+RIGHT 54 2
+DELETE 54 2
+RIGHT 54 3
+LEFT 54 2
+RIGHT 54 3
+RIGHT 54 4
+DELETE 54 4
+DELETE 54 4
+RIGHT 54 5
+DELETE 54 5
+DELETE 54 5
+DELETE 54 5
+RIGHT 54 6
+INSERT 54 6
+LEFT 54 5
+RIGHT 54 6
+RIGHT 54 7
+DELETE 54 7
+RIGHT 55 0
+DELETE 55 0
+DELETE 55 0
+DELETE 55 0
+DELETE 55 0
+RIGHT 55 1
+DELETE 55 1
+LEFT 55 0
+RIGHT 55 1
+LEFT 55 0
+RIGHT 55 1
+RIGHT 55 2
+RIGHT 55 3
+INSERT 55 3
+RIGHT 55 4
+RIGHT 55 5
+LEFT 55 4
+DELETE 55 4
+RIGHT 55 5
+DELETE 55 5
+RIGHT 55 6
+RIGHT 55 7
+RIGHT 55 8
+RIGHT 55 9
+INSERT 55 9
+RIGHT 55 10
+LEFT 55 9
+RIGHT 55 10
+RIGHT 56 0
+RIGHT 56 1
+RIGHT 56 2
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljptzjbgj
+zzfjjrcmhjgzplk 
+fd vswnashlvjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 56 3
+RIGHT 56 4
+LEFT 56 3
+RIGHT 56 4
+RIGHT 56 5
+DELETE 56 5
+RIGHT 56 6
+DELETE 56 6
+INSERT 56 6
+INSERT 56 6
+INSERT 56 6
+RIGHT 56 7
+DELETE 56 7
+DELETE 56 7
+RIGHT 56 8
+DELETE 56 8
+LEFT 56 7
+INSERT 56 7
+INSERT 56 7
+INSERT 56 7
+RIGHT 56 8
+RIGHT 56 9
+RIGHT 56 10
+RIGHT 56 11
+RIGHT 56 12
+INSERT 56 12
+RIGHT 56 13
+RIGHT 57 0
+INSERT 57 0
+LEFT 56 13
+DELETE 56 13
+RIGHT 57 0
+INSERT 57 0
+DELETE 57 0
+RIGHT 57 1
+RIGHT 57 2
+INSERT 57 2
+INSERT 57 2
+RIGHT 57 3
+RIGHT 57 4
+INSERT 57 4
+RIGHT 57 5
+RIGHT 57 6
+RIGHT 57 7
+RIGHT 57 8
+INSERT 57 8
+DELETE 57 8
+RIGHT 57 9
+RIGHT 57 10
+DELETE 57 10
+RIGHT 57 11
+LEFT 57 10
+RIGHT 57 11
+RIGHT 57 12
+RIGHT 57 13
+LEFT 57 12
+INSERT 57 12
+RIGHT 57 13
+DELETE 57 13
+RIGHT 57 14
+LEFT 57 13
+RIGHT 57 14
+RIGHT 57 15
+DELETE 57 15
+RIGHT 57 16
+RIGHT 57 17
+LEFT 57 16
+DELETE 57 16
+INSERT 57 16
+RIGHT 57 17
+INSERT 57 17
+DELETE 57 17
+RIGHT 58 0
+DELETE 58 0
+RIGHT 58 1
+RIGHT 58 2
+INSERT 58 2
+INSERT 58 2
+RIGHT 58 3
+RIGHT 58 4
+RIGHT 58 5
+RIGHT 58 6
+RIGHT 58 7
+RIGHT 58 8
+DELETE 58 8
+RIGHT 58 9
+DELETE 58 9
+LEFT 58 8
+INSERT 58 8
+RIGHT 58 9
+RIGHT 58 10
+DELETE 58 10
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6svjdayibv
+qvqev  nzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+INSERT 58 10
+LEFT 58 9
+INSERT 58 9
+RIGHT 58 10
+DELETE 58 10
+RIGHT 58 11
+RIGHT 58 12
+DELETE 58 12
+RIGHT 58 13
+RIGHT 58 14
+INSERT 58 14
+LEFT 58 13
+RIGHT 58 14
+RIGHT 58 15
+LEFT 58 14
+RIGHT 58 15
+RIGHT 58 16
+RIGHT 58 17
+LEFT 58 16
+RIGHT 58 17
+RIGHT 58 18
+RIGHT 58 19
+RIGHT 59 0
+RIGHT 59 1
+INSERT 59 1
+INSERT 59 1
+DELETE 59 1
+RIGHT 59 2
+DELETE 59 2
+DELETE 59 2
+RIGHT 59 3
+LEFT 59 2
+RIGHT 59 3
+RIGHT 59 4
+LEFT 59 3
+RIGHT 59 4
+LEFT 59 3
+RIGHT 59 4
+INSERT 59 4
+INSERT 59 4
+RIGHT 59 5
+INSERT 59 5
+DELETE 59 5
+DELETE 59 5
+RIGHT 59 6
+INSERT 59 6
+DELETE 59 6
+RIGHT 59 7
+LEFT 59 6
+INSERT 59 6
+INSERT 59 6
+INSERT 59 6
+INSERT 59 6
+RIGHT 59 7
+RIGHT 59 8
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjzljfznbuxtvx
+ dceoynrxenz
+ wrolgrnyfddtp
+kxnnknij rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+INSERT 59 8
+DELETE 59 8
+RIGHT 59 9
+RIGHT 59 10
+LEFT 59 9
+LEFT 59 8
+RIGHT 59 9
+RIGHT 59 10
+RIGHT 59 11
+RIGHT 59 12
+LEFT 59 11
+RIGHT 59 12
+INSERT 59 12
+INSERT 59 12
+RIGHT 59 13
+RIGHT 59 14
+RIGHT 59 15
+RIGHT 59 16
+INSERT 59 16
+INSERT 59 16
+LEFT 59 15
+INSERT 59 15
+DELETE 59 15
+RIGHT 59 16
+DELETE 59 16
+RIGHT 59 17
+DELETE 59 17
+RIGHT 60 0
+DELETE 60 0
+RIGHT 60 1
+RIGHT 60 2
+RIGHT 60 3
+RIGHT 60 4
+INSERT 60 4
+RIGHT 60 5
+INSERT 60 5
+RIGHT 60 6
+DELETE 60 6
+RIGHT 60 7
+RIGHT 60 8
+INSERT 60 8
+RIGHT 60 9
+RIGHT 60 10
+INSERT 60 10
+DELETE 60 10
+RIGHT 60 11
+DELETE 60 11
+RIGHT 60 12
+DELETE 60 12
+RIGHT 61 0
+LEFT 60 12
+RIGHT 61 0
+DELETE 61 0
+LEFT 60 12
+RIGHT 61 0
+DELETE 61 0
+INSERT 61 0
+RIGHT 61 1
+INSERT 61 1
+RIGHT 61 2
+RIGHT 61 3
+LEFT 61 2
+RIGHT 61 3
+LEFT 61 2
+RIGHT 61 3
+RIGHT 61 4
+RIGHT 61 5
+DELETE 61 5
+RIGHT 61 6
+INSERT 61 6
+RIGHT 61 7
+LEFT 61 6
+RIGHT 61 7
+INSERT 61 7
+INSERT 61 7
+RIGHT 61 8
+LEFT 61 7
+RIGHT 61 8
+LEFT 61 7
+DELETE 61 7
+INSERT 61 7
+INSERT 61 7
+RIGHT 61 8
+RIGHT 61 9
+RIGHT 61 10
+LEFT 61 9
+DELETE 61 9
+DELETE 61 9
+RIGHT 61 10
+RIGHT 61 11
+RIGHT 61 12
+RIGHT 61 13
+RIGHT 61 14
+DELETE 61 14
+LEFT 61 13
+DELETE 61 13
+RIGHT 62 0
+RIGHT 62 1
+DELETE 62 1
+RIGHT 62 2
+RIGHT 62 3
+RIGHT 62 4
+RIGHT 62 5
+LEFT 62 4
+INSERT 62 4
+INSERT 62 4
+DELETE 62 4
+DELETE 62 4
+RIGHT 62 5
+DELETE 62 5
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknj rainj
+hq iaxixklf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+INSERT 62 5
+RIGHT 62 6
+DELETE 62 6
+INSERT 62 6
+DELETE 62 6
+RIGHT 62 7
+DELETE 62 7
+RIGHT 62 8
+RIGHT 62 9
+RIGHT 62 10
+INSERT 62 10
+RIGHT 62 11
+LEFT 62 10
+LEFT 62 9
+RIGHT 62 10
+INSERT 62 10
+LEFT 62 9
+DELETE 62 9
+DELETE 62 9
+DELETE 62 9
+RIGHT 62 10
+LEFT 62 9
+LEFT 62 8
+RIGHT 62 9
+DELETE 62 9
+DELETE 62 9
+RIGHT 63 0
+LEFT 62 9
+RIGHT 63 0
+LEFT 62 9
+INSERT 62 9
+RIGHT 62 10
+DELETE 62 10
+DELETE 62 10
+RIGHT 63 0
+INSERT 63 0
+RIGHT 63 1
+RIGHT 63 2
+INSERT 63 2
+RIGHT 63 3
+DELETE 63 3
+DELETE 63 3
+RIGHT 63 4
+RIGHT 63 5
+RIGHT 63 6
+DELETE 63 6
+DELETE 63 6
+DELETE 63 6
+RIGHT 63 7
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf 
+ihwbufaonm ukmstm
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 63 8
+DELETE 63 8
+RIGHT 64 0
+RIGHT 64 1
+DELETE 64 1
+RIGHT 64 2
+DELETE 64 2
+RIGHT 64 3
+RIGHT 64 4
+INSERT 64 4
+LEFT 64 3
+DELETE 64 3
+DELETE 64 3
+DELETE 64 3
+RIGHT 64 4
+RIGHT 64 5
+INSERT 64 5
+RIGHT 64 6
+RIGHT 64 7
+INSERT 64 7
+INSERT 64 7
+RIGHT 64 8
+INSERT 64 8
+RIGHT 64 9
+LEFT 64 8
+RIGHT 64 9
+RIGHT 64 10
+RIGHT 64 11
+DELETE 64 11
+RIGHT 64 12
+RIGHT 64 13
+RIGHT 64 14
+RIGHT 64 15
+INSERT 64 15
+LEFT 64 14
+RIGHT 64 15
+LEFT 64 14
+RIGHT 64 15
+RIGHT 64 16
+RIGHT 64 17
+DELETE 64 17
+LEFT 64 16
+RIGHT 64 17
+INSERT 64 17
+INSERT 64 17
+LEFT 64 16
+RIGHT 64 17
+RIGHT 64 18
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS kmst0miZ
+p dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 64 19
+LEFT 64 18
+RIGHT 64 19
+LEFT 64 18
+DELETE 64 18
+RIGHT 65 0
+RIGHT 65 1
+INSERT 65 1
+RIGHT 65 2
+LEFT 65 1
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS kmst0mi
+pW dkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 65 2
+INSERT 65 2
+INSERT 65 2
+DELETE 65 2
+RIGHT 65 3
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS kmst0mi
+pWdkrwlklyeuowtdxge
+jksw hvi mbg
+bwkgqskj zobbwgh
+ r ekswg kka
+pgnollfzfulw
+zkfq  n c gcs
+nlsfosqiydzsud
+shmjzaumpea s y
+fse  xa  np
+oq sjfzosbtz
+mmquiouhjte
+eeyelkyipoukk
+zpccqhyirmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 65 3
+LEFT 65 2
+INSERT 65 2
+INSERT 65 2
+DELETE 65 2
+RIGHT 65 3
+LEFT 65 2
+RIGHT 65 3
+INSERT 65 3
+RIGHT 65 4
+RIGHT 65 5
+RIGHT 65 6
+RIGHT 65 7
+RIGHT 65 8
+RIGHT 65 9
+INSERT 65 9
+RIGHT 65 10
+RIGHT 65 11
+RIGHT 65 12
+RIGHT 65 13
+LEFT 65 12
+DELETE 65 12
+INSERT 65 12
+LEFT 65 11
+DELETE 65 11
+LEFT 65 10
+RIGHT 65 11
+LEFT 65 10
+INSERT 65 10
+DELETE 65 10
+LEFT 65 9
+RIGHT 65 10
+DELETE 65 10
+RIGHT 65 11
+INSERT 65 11
+DELETE 65 11
+INSERT 65 11
+INSERT 65 11
+DELETE 65 11
+INSERT 65 11
+RIGHT 65 12
+RIGHT 65 13
+RIGHT 65 14
+RIGHT 65 15
+RIGHT 65 16
+RIGHT 65 17
+INSERT 65 17
+RIGHT 65 18
+INSERT 65 18
+RIGHT 65 19
+DELETE 65 19
+RIGHT 66 0
+RIGHT 66 1
+RIGHT 66 2
+INSERT 66 2
+RIGHT 66 3
+RIGHT 66 4
+LEFT 66 3
+RIGHT 66 4
+RIGHT 66 5
+DELETE 66 5
+RIGHT 66 6
+RIGHT 66 7
+RIGHT 66 8
+RIGHT 66 9
+RIGHT 66 10
+LEFT 66 9
+DELETE 66 9
+INSERT 66 9
+RIGHT 66 10
+DELETE 66 10
+RIGHT 66 11
+LEFT 66 10
+RIGHT 66 11
+DELETE 66 11
+RIGHT 67 0
+RIGHT 67 1
+DELETE 67 1
+RIGHT 67 2
+DELETE 67 2
+LEFT 67 1
+RIGHT 67 2
+LEFT 67 1
+RIGHT 67 2
+LEFT 67 1
+DELETE 67 1
+RIGHT 67 2
+DELETE 67 2
+INSERT 67 2
+LEFT 67 1
+RIGHT 67 2
+LEFT 67 1
+RIGHT 67 2
+INSERT 67 2
+RIGHT 67 3
+RIGHT 67 4
+INSERT 67 4
+RIGHT 67 5
+RIGHT 67 6
+INSERT 67 6
+INSERT 67 6
+RIGHT 67 7
+INSERT 67 7
+RIGHT 67 8
+RIGHT 67 9
+DELETE 67 9
+RIGHT 67 10
+INSERT 67 10
+LEFT 67 9
+RIGHT 67 10
+RIGHT 67 11
+RIGHT 67 12
+RIGHT 67 13
+RIGHT 67 14
+DELETE 67 14
+RIGHT 67 15
+RIGHT 67 16
+RIGHT 67 17
+RIGHT 68 0
+DELETE 68 0
+RIGHT 68 1
+RIGHT 68 2
+RIGHT 68 3
+RIGHT 68 4
+RIGHT 68 5
+RIGHT 68 6
+INSERT 68 6
+RIGHT 68 7
+DELETE 68 7
+RIGHT 68 8
+RIGHT 68 9
+RIGHT 68 10
+INSERT 68 10
+RIGHT 68 11
+RIGHT 68 12
+RIGHT 69 0
+RIGHT 69 1
+LEFT 69 0
+RIGHT 69 1
+INSERT 69 1
+RIGHT 69 2
+LEFT 69 1
+DELETE 69 1
+RIGHT 69 2
+DELETE 69 2
+RIGHT 69 3
+DELETE 69 3
+DELETE 69 3
+LEFT 69 2
+LEFT 69 1
+INSERT 69 1
+LEFT 69 0
+RIGHT 69 1
+RIGHT 69 2
+RIGHT 69 3
+LEFT 69 2
+DELETE 69 2
+LEFT 69 1
+RIGHT 69 2
+RIGHT 69 3
+INSERT 69 3
+RIGHT 69 4
+RIGHT 69 5
+INSERT 69 5
+RIGHT 69 6
+INSERT 69 6
+INSERT 69 6
+RIGHT 69 7
+RIGHT 69 8
+RIGHT 69 9
+LEFT 69 8
+RIGHT 69 9
+RIGHT 69 10
+RIGHT 69 11
+LEFT 69 10
+RIGHT 69 11
+DELETE 69 11
+INSERT 69 11
+DELETE 69 11
+INSERT 69 11
+RIGHT 69 12
+DELETE 69 12
+RIGHT 70 0
+RIGHT 70 1
+DELETE 70 1
+RIGHT 70 2
+DELETE 70 2
+INSERT 70 2
+DELETE 70 2
+LEFT 70 1
+RIGHT 70 2
+DELETE 70 2
+DELETE 70 2
+DELETE 70 2
+LEFT 70 1
+RIGHT 70 2
+INSERT 70 2
+RIGHT 70 3
+RIGHT 70 4
+INSERT 70 4
+RIGHT 70 5
+DELETE 70 5
+DELETE 70 5
+DELETE 70 5
+INSERT 70 5
+DELETE 70 5
+INSERT 70 5
+DELETE 70 5
+RIGHT 70 6
+INSERT 70 6
+RIGHT 70 7
+RIGHT 70 8
+RIGHT 71 0
+DELETE 71 0
+INSERT 71 0
+RIGHT 71 1
+RIGHT 71 2
+INSERT 71 2
+LEFT 71 1
+RIGHT 71 2
+INSERT 71 2
+LEFT 71 1
+RIGHT 71 2
+RIGHT 71 3
+RIGHT 71 4
+RIGHT 71 5
+RIGHT 71 6
+INSERT 71 6
+RIGHT 71 7
+RIGHT 71 8
+RIGHT 71 9
+DELETE 71 9
+INSERT 71 9
+DELETE 71 9
+DELETE 71 9
+DELETE 71 9
+DELETE 71 9
+RIGHT 71 10
+DELETE 71 10
+DELETE 71 10
+DELETE 71 10
+RIGHT 72 0
+INSERT 72 0
+INSERT 72 0
+RIGHT 72 1
+RIGHT 72 2
+RIGHT 72 3
+RIGHT 72 4
+LEFT 72 3
+RIGHT 72 4
+RIGHT 72 5
+DELETE 72 5
+DELETE 72 5
+DELETE 72 5
+RIGHT 72 6
+INSERT 72 6
+INSERT 72 6
+DELETE 72 6
+INSERT 72 6
+INSERT 72 6
+RIGHT 72 7
+DELETE 72 7
+INSERT 72 7
+RIGHT 72 8
+DELETE 72 8
+RIGHT 72 9
+DELETE 72 9
+RIGHT 72 10
+RIGHT 72 11
+RIGHT 72 12
+DELETE 72 12
+RIGHT 72 13
+INSERT 72 13
+RIGHT 72 14
+RIGHT 72 15
+LEFT 72 14
+RIGHT 72 15
+RIGHT 73 0
+INSERT 73 0
+INSERT 73 0
+LEFT 72 15
+RIGHT 73 0
+RIGHT 73 1
+DELETE 73 1
+RIGHT 73 2
+RIGHT 73 3
+DELETE 73 3
+RIGHT 73 4
+DELETE 73 4
+RIGHT 73 5
+INSERT 73 5
+DELETE 73 5
+RIGHT 73 6
+RIGHT 73 7
+INSERT 73 7
+RIGHT 73 8
+RIGHT 73 9
+INSERT 73 9
+INSERT 73 9
+RIGHT 73 10
+LEFT 73 9
+RIGHT 73 10
+DELETE 73 10
+DELETE 73 10
+DELETE 73 10
+DELETE 73 10
+RIGHT 74 0
+DELETE 74 0
+DELETE 74 0
+DELETE 74 0
+DELETE 74 0
+INSERT 74 0
+RIGHT 74 1
+DELETE 74 1
+RIGHT 74 2
+RIGHT 74 3
+RIGHT 74 4
+RIGHT 74 5
+LEFT 74 4
+DELETE 74 4
+RIGHT 74 5
+DELETE 74 5
+INSERT 74 5
+INSERT 74 5
+RIGHT 74 6
+DELETE 74 6
+DELETE 74 6
+RIGHT 75 0
+RIGHT 75 1
+RIGHT 75 2
+RIGHT 75 3
+INSERT 75 3
+DELETE 75 3
+RIGHT 75 4
+RIGHT 75 5
+RIGHT 75 6
+RIGHT 75 7
+DELETE 75 7
+LEFT 75 6
+RIGHT 75 7
+INSERT 75 7
+INSERT 75 7
+RIGHT 75 8
+DELETE 75 8
+RIGHT 75 9
+RIGHT 75 10
+DELETE 75 10
+RIGHT 76 0
+LEFT 75 10
+RIGHT 76 0
+RIGHT 76 1
+DELETE 76 1
+DELETE 76 1
+LEFT 76 0
+RIGHT 76 1
+INSERT 76 1
+RIGHT 76 2
+RIGHT 76 3
+RIGHT 76 4
+INSERT 76 4
+RIGHT 76 5
+DELETE 76 5
+RIGHT 76 6
+DELETE 76 6
+DELETE 76 6
+LEFT 76 5
+RIGHT 76 6
+LEFT 76 5
+LEFT 76 4
+RIGHT 76 5
+INSERT 76 5
+INSERT 76 5
+RIGHT 76 6
+DELETE 76 6
+RIGHT 76 7
+INSERT 76 7
+DELETE 76 7
+INSERT 76 7
+DELETE 76 7
+RIGHT 76 8
+RIGHT 76 9
+DELETE 76 9
+RIGHT 76 10
+RIGHT 77 0
+RIGHT 77 1
+LEFT 77 0
+DELETE 77 0
+RIGHT 77 1
+LEFT 77 0
+RIGHT 77 1
+LEFT 77 0
+INSERT 77 0
+RIGHT 77 1
+INSERT 77 1
+RIGHT 77 2
+INSERT 77 2
+LEFT 77 1
+RIGHT 77 2
+INSERT 77 2
+INSERT 77 2
+INSERT 77 2
+RIGHT 77 3
+RIGHT 77 4
+RIGHT 77 5
+DELETE 77 5
+RIGHT 77 6
+RIGHT 77 7
+RIGHT 77 8
+RIGHT 77 9
+INSERT 77 9
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS kmst0mi
+pWq;drwlklbKSowtdxg
+jkwswhvi Wg
+bqoPrkERS Yzobwgh
+r ekswW kkoa
+p/oBfDV)zfuS
+zfj mc{s
+Tl" sfkosz
+IxshmuCNmea  Ey
+mfs xa K Y
+Xfzoba
+mmquioucjt
+eHelDSyouk
+nY9pcqhyiSrmtffr zyp
+iacwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 77 9
+RIGHT 77 10
+INSERT 77 10
+RIGHT 77 11
+RIGHT 77 12
+RIGHT 77 13
+DELETE 77 13
+LEFT 77 12
+RIGHT 77 13
+RIGHT 77 14
+DELETE 77 14
+RIGHT 77 15
+RIGHT 77 16
+DELETE 77 16
+RIGHT 77 17
+DELETE 77 17
+LEFT 77 16
+INSERT 77 16
+RIGHT 77 17
+DELETE 77 17
+RIGHT 78 0
+RIGHT 78 1
+DELETE 78 1
+LEFT 78 0
+INSERT 78 0
+INSERT 78 0
+INSERT 78 0
+DELETE 78 0
+LEFT 77 17
+RIGHT 78 0
+INSERT 78 0
+DELETE 78 0
+RIGHT 78 1
+RIGHT 78 2
+LEFT 78 1
+RIGHT 78 2
+LEFT 78 1
+LEFT 78 0
+RIGHT 78 1
+LEFT 78 0
+INSERT 78 0
+RIGHT 78 1
+INSERT 78 1
+INSERT 78 1
+LEFT 78 0
+RIGHT 78 1
+LEFT 78 0
+RIGHT 78 1
+DELETE 78 1
+RIGHT 78 2
+LEFT 78 1
+LEFT 78 0
+RIGHT 78 1
+LEFT 78 0
+INSERT 78 0
+LEFT 77 17
+DELETE 77 17
+LEFT 77 16
+LEFT 77 15
+DELETE 77 15
+LEFT 77 14
+RIGHT 77 15
+INSERT 77 15
+LEFT 77 14
+LEFT 77 13
+LEFT 77 12
+LEFT 77 11
+LEFT 77 10
+INSERT 77 10
+INSERT 77 10
+LEFT 77 9
+INSERT 77 9
+LEFT 77 8
+RIGHT 77 9
+LEFT 77 8
+LEFT 77 7
+LEFT 77 6
+INSERT 77 6
+LEFT 77 5
+LEFT 77 4
+LEFT 77 3
+RIGHT 77 4
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS kmst0mi
+pWq;drwlklbKSowtdxg
+jkwswhvi Wg
+bqoPrkERS Yzobwgh
+r ekswW kkoa
+p/oBfDV)zfuS
+zfj mc{s
+Tl" sfkosz
+IxshmuCNmea  Ey
+mfs xa K Y
+Xfzoba
+mmquioucjt
+eHelDSyouk
+nY9pcqhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 77 3
+INSERT 77 3
+DELETE 77 3
+INSERT 77 3
+DELETE 77 3
+DELETE 77 3
+LEFT 77 2
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS kmst0mi
+pWq;drwlklbKSowtdxg
+jkwswhvi Wg
+bqoPrkERS Yzobwgh
+r ekswW kkoa
+p/oBfDV)zfuS
+zfj mc{s
+Tl" sfkosz
+IxshmuCNmea  Ey
+mfs xa K Y
+Xfzoba
+mmquioucjt
+eHelDSyouk
+nY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 77 1
+RIGHT 77 2
+LEFT 77 1
+INSERT 77 1
+LEFT 77 0
+LEFT 76 10
+DELETE 76 10
+RIGHT 77 0
+LEFT 76 10
+INSERT 76 10
+DELETE 76 10
+RIGHT 77 0
+DELETE 77 0
+LEFT 76 10
+INSERT 76 10
+LEFT 76 9
+INSERT 76 9
+LEFT 76 8
+DELETE 76 8
+RIGHT 76 9
+LEFT 76 8
+DELETE 76 8
+INSERT 76 8
+LEFT 76 7
+LEFT 76 6
+INSERT 76 6
+LEFT 76 5
+INSERT 76 5
+DELETE 76 5
+INSERT 76 5
+DELETE 76 5
+DELETE 76 5
+RIGHT 76 6
+LEFT 76 5
+DELETE 76 5
+LEFT 76 4
+DELETE 76 4
+DELETE 76 4
+LEFT 76 3
+DELETE 76 3
+INSERT 76 3
+LEFT 76 2
+LEFT 76 1
+LEFT 76 0
+LEFT 75 10
+LEFT 75 9
+DELETE 75 9
+LEFT 75 8
+DELETE 75 8
+DELETE 75 8
+INSERT 75 8
+RIGHT 75 9
+LEFT 75 8
+LEFT 75 7
+INSERT 75 7
+INSERT 75 7
+DELETE 75 7
+DELETE 75 7
+DELETE 75 7
+DELETE 75 7
+LEFT 75 6
+LEFT 75 5
+DELETE 75 5
+LEFT 75 4
+LEFT 75 3
+INSERT 75 3
+LEFT 75 2
+INSERT 75 2
+DELETE 75 2
+DELETE 75 2
+LEFT 75 1
+DELETE 75 1
+RIGHT 75 2
+LEFT 75 1
+LEFT 75 0
+DELETE 75 0
+LEFT 74 6
+DELETE 74 6
+LEFT 74 5
+DELETE 74 5
+LEFT 74 4
+LEFT 74 3
+LEFT 74 2
+DELETE 74 2
+RIGHT 74 3
+DELETE 74 3
+INSERT 74 3
+LEFT 74 2
+DELETE 74 2
+RIGHT 74 3
+LEFT 74 2
+LEFT 74 1
+RIGHT 74 2
+LEFT 74 1
+LEFT 74 0
+LEFT 73 10
+LEFT 73 9
+DELETE 73 9
+LEFT 73 8
+DELETE 73 8
+LEFT 73 7
+INSERT 73 7
+LEFT 73 6
+LEFT 73 5
+LEFT 73 4
+LEFT 73 3
+INSERT 73 3
+RIGHT 73 4
+INSERT 73 4
+LEFT 73 3
+RIGHT 73 4
+LEFT 73 3
+INSERT 73 3
+LEFT 73 2
+LEFT 73 1
+INSERT 73 1
+LEFT 73 0
+DELETE 73 0
+LEFT 72 15
+LEFT 72 14
+RIGHT 72 15
+LEFT 72 14
+INSERT 72 14
+DELETE 72 14
+LEFT 72 13
+DELETE 72 13
+LEFT 72 12
+LEFT 72 11
+LEFT 72 10
+INSERT 72 10
+LEFT 72 9
+RIGHT 72 10
+DELETE 72 10
+RIGHT 72 11
+LEFT 72 10
+LEFT 72 9
+DELETE 72 9
+INSERT 72 9
+LEFT 72 8
+INSERT 72 8
+DELETE 72 8
+LEFT 72 7
+LEFT 72 6
+LEFT 72 5
+LEFT 72 4
+LEFT 72 3
+LEFT 72 2
+INSERT 72 2
+LEFT 72 1
+RIGHT 72 2
+DELETE 72 2
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS kmst0mi
+pWq;drwlklbKSowtdxg
+jkwswhvi Wg
+bqoPrkERS Yzobwgh
+r ekswW kkoa
+p/oBfDV)zfuS
+zfj mc{s
+Tl" sfkosz
+IxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 72 1
+LEFT 72 0
+INSERT 72 0
+INSERT 72 0
+LEFT 71 10
+LEFT 71 9
+LEFT 71 8
+RIGHT 71 9
+LEFT 71 8
+LEFT 71 7
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS kmst0mi
+pWq;drwlklbKSowtdxg
+jkwswhvi Wg
+bqoPrkERS Yzobwgh
+r ekswW kkoa
+p/oBfDV)zfuS
+zfj mc{s
+Tl" sfkosz
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 71 8
+LEFT 71 7
+DELETE 71 7
+INSERT 71 7
+RIGHT 71 8
+LEFT 71 7
+LEFT 71 6
+RIGHT 71 7
+DELETE 71 7
+DELETE 71 7
+LEFT 71 6
+RIGHT 71 7
+LEFT 71 6
+RIGHT 71 7
+DELETE 71 7
+LEFT 71 6
+LEFT 71 5
+INSERT 71 5
+RIGHT 71 6
+LEFT 71 5
+INSERT 71 5
+DELETE 71 5
+LEFT 71 4
+INSERT 71 4
+INSERT 71 4
+INSERT 71 4
+INSERT 71 4
+DELETE 71 4
+DELETE 71 4
+LEFT 71 3
+LEFT 71 2
+LEFT 71 1
+LEFT 71 0
+LEFT 70 8
+INSERT 70 8
+LEFT 70 7
+DELETE 70 7
+LEFT 70 6
+LEFT 70 5
+DELETE 70 5
+DELETE 70 5
+LEFT 70 4
+DELETE 70 4
+LEFT 70 3
+INSERT 70 3
+DELETE 70 3
+INSERT 70 3
+RIGHT 70 4
+DELETE 70 4
+DELETE 70 4
+LEFT 70 3
+DELETE 70 3
+RIGHT 71 0
+INSERT 71 0
+DELETE 71 0
+DELETE 71 0
+RIGHT 71 1
+RIGHT 71 2
+LEFT 71 1
+DELETE 71 1
+LEFT 71 0
+DELETE 71 0
+LEFT 70 3
+RIGHT 71 0
+LEFT 70 3
+INSERT 70 3
+RIGHT 70 4
+LEFT 70 3
+LEFT 70 2
+LEFT 70 1
+LEFT 70 0
+LEFT 69 12
+INSERT 69 12
+INSERT 69 12
+DELETE 69 12
+INSERT 69 12
+LEFT 69 11
+INSERT 69 11
+RIGHT 69 12
+INSERT 69 12
+LEFT 69 11
+LEFT 69 10
+LEFT 69 9
+INSERT 69 9
+LEFT 69 8
+RIGHT 69 9
+LEFT 69 8
+LEFT 69 7
+INSERT 69 7
+LEFT 69 6
+LEFT 69 5
+LEFT 69 4
+LEFT 69 3
+INSERT 69 3
+RIGHT 69 4
+LEFT 69 3
+RIGHT 69 4
+DELETE 69 4
+LEFT 69 3
+INSERT 69 3
+RIGHT 69 4
+INSERT 69 4
+LEFT 69 3
+LEFT 69 2
+LEFT 69 1
+DELETE 69 1
+LEFT 69 0
+LEFT 68 12
+LEFT 68 11
+INSERT 68 11
+LEFT 68 10
+LEFT 68 9
+RIGHT 68 10
+LEFT 68 9
+LEFT 68 8
+LEFT 68 7
+LEFT 68 6
+DELETE 68 6
+INSERT 68 6
+RIGHT 68 7
+RIGHT 68 8
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS kmst0mi
+pWq;drwlklbKSowtdxg
+jkwswhvi Wg
+bqoPrkERS Yzobwgh
+r ekswI kkoga
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 68 8
+DELETE 68 8
+LEFT 68 7
+LEFT 68 6
+RIGHT 68 7
+DELETE 68 7
+RIGHT 68 8
+DELETE 68 8
+DELETE 68 8
+LEFT 68 7
+LEFT 68 6
+DELETE 68 6
+LEFT 68 5
+DELETE 68 5
+INSERT 68 5
+INSERT 68 5
+LEFT 68 4
+INSERT 68 4
+INSERT 68 4
+LEFT 68 3
+INSERT 68 3
+LEFT 68 2
+RIGHT 68 3
+LEFT 68 2
+INSERT 68 2
+LEFT 68 1
+DELETE 68 1
+LEFT 68 0
+DELETE 68 0
+DELETE 68 0
+LEFT 67 17
+RIGHT 68 0
+LEFT 67 17
+DELETE 67 17
+DELETE 67 17
+LEFT 67 16
+INSERT 67 16
+LEFT 67 15
+RIGHT 67 16
+LEFT 67 15
+RIGHT 67 16
+LEFT 67 15
+DELETE 67 15
+LEFT 67 14
+RIGHT 67 15
+LEFT 67 14
+DELETE 67 14
+LEFT 67 13
+INSERT 67 13
+INSERT 67 13
+DELETE 67 13
+RIGHT 67 14
+DELETE 67 14
+DELETE 67 14
+LEFT 67 13
+LEFT 67 12
+RIGHT 67 13
+DELETE 67 13
+LEFT 67 12
+DELETE 67 12
+DELETE 67 12
+LEFT 67 11
+RIGHT 67 12
+LEFT 67 11
+INSERT 67 11
+INSERT 67 11
+DELETE 67 11
+LEFT 67 10
+INSERT 67 10
+DELETE 67 10
+INSERT 67 10
+RIGHT 67 11
+INSERT 67 11
+LEFT 67 10
+LEFT 67 9
+LEFT 67 8
+INSERT 67 8
+LEFT 67 7
+LEFT 67 6
+LEFT 67 5
+LEFT 67 4
+LEFT 67 3
+LEFT 67 2
+DELETE 67 2
+DELETE 67 2
+LEFT 67 1
+LEFT 67 0
+LEFT 66 11
+INSERT 66 11
+INSERT 66 11
+LEFT 66 10
+DELETE 66 10
+RIGHT 66 11
+LEFT 66 10
+LEFT 66 9
+INSERT 66 9
+INSERT 66 9
+LEFT 66 8
+INSERT 66 8
+RIGHT 66 9
+LEFT 66 8
+LEFT 66 7
+INSERT 66 7
+LEFT 66 6
+INSERT 66 6
+DELETE 66 6
+LEFT 66 5
+LEFT 66 4
+INSERT 66 4
+LEFT 66 3
+LEFT 66 2
+RIGHT 66 3
+RIGHT 66 4
+INSERT 66 4
+INSERT 66 4
+LEFT 66 3
+RIGHT 66 4
+DELETE 66 4
+LEFT 66 3
+DELETE 66 3
+RIGHT 66 4
+LEFT 66 3
+INSERT 66 3
+LEFT 66 2
+LEFT 66 1
+INSERT 66 1
+INSERT 66 1
+LEFT 66 0
+INSERT 66 0
+INSERT 66 0
+LEFT 65 19
+DELETE 65 19
+RIGHT 66 0
+LEFT 65 19
+LEFT 65 18
+LEFT 65 17
+RIGHT 65 18
+INSERT 65 18
+INSERT 65 18
+LEFT 65 17
+INSERT 65 17
+RIGHT 65 18
+LEFT 65 17
+DELETE 65 17
+DELETE 65 17
+LEFT 65 16
+INSERT 65 16
+LEFT 65 15
+RIGHT 65 16
+LEFT 65 15
+INSERT 65 15
+LEFT 65 14
+LEFT 65 13
+DELETE 65 13
+LEFT 65 12
+DELETE 65 12
+DELETE 65 12
+DELETE 65 12
+LEFT 65 11
+DELETE 65 11
+LEFT 65 10
+LEFT 65 9
+LEFT 65 8
+LEFT 65 7
+LEFT 65 6
+LEFT 65 5
+LEFT 65 4
+LEFT 65 3
+DELETE 65 3
+DELETE 65 3
+LEFT 65 2
+LEFT 65 1
+LEFT 65 0
+LEFT 64 18
+LEFT 64 17
+DELETE 64 17
+DELETE 64 17
+INSERT 64 17
+INSERT 64 17
+INSERT 64 17
+LEFT 64 16
+LEFT 64 15
+LEFT 64 14
+LEFT 64 13
+DELETE 64 13
+LEFT 64 12
+LEFT 64 11
+LEFT 64 10
+RIGHT 64 11
+DELETE 64 11
+LEFT 64 10
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nUjljfzGnbxv
+dceos?nruxez
+(Mrolru dyfdd
+knnknx aiM
+whliaxlf
+iwuonimSKS mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+INSERT 64 10
+INSERT 64 10
+DELETE 64 10
+LEFT 64 9
+DELETE 64 9
+LEFT 64 8
+LEFT 64 7
+LEFT 64 6
+RIGHT 64 7
+RIGHT 64 8
+LEFT 64 7
+LEFT 64 6
+DELETE 64 6
+INSERT 64 6
+LEFT 64 5
+DELETE 64 5
+INSERT 64 5
+DELETE 64 5
+INSERT 64 5
+INSERT 64 5
+LEFT 64 4
+INSERT 64 4
+DELETE 64 4
+LEFT 64 3
+INSERT 64 3
+LEFT 64 2
+DELETE 64 2
+INSERT 64 2
+LEFT 64 1
+DELETE 64 1
+RIGHT 64 2
+LEFT 64 1
+RIGHT 64 2
+LEFT 64 1
+LEFT 64 0
+LEFT 63 8
+DELETE 63 8
+DELETE 63 8
+DELETE 63 8
+RIGHT 64 0
+LEFT 63 8
+LEFT 63 7
+DELETE 63 7
+INSERT 63 7
+INSERT 63 7
+INSERT 63 7
+RIGHT 63 8
+INSERT 63 8
+LEFT 63 7
+DELETE 63 7
+LEFT 63 6
+RIGHT 63 7
+LEFT 63 6
+LEFT 63 5
+DELETE 63 5
+INSERT 63 5
+INSERT 63 5
+LEFT 63 4
+INSERT 63 4
+DELETE 63 4
+DELETE 63 4
+DELETE 63 4
+INSERT 63 4
+INSERT 63 4
+LEFT 63 3
+LEFT 63 2
+LEFT 63 1
+DELETE 63 1
+LEFT 63 0
+INSERT 63 0
+LEFT 62 10
+LEFT 62 9
+LEFT 62 8
+LEFT 62 7
+LEFT 62 6
+LEFT 62 5
+LEFT 62 4
+DELETE 62 4
+LEFT 62 3
+LEFT 62 2
+LEFT 62 1
+LEFT 62 0
+LEFT 61 13
+INSERT 61 13
+RIGHT 61 14
+LEFT 61 13
+LEFT 61 12
+RIGHT 61 13
+INSERT 61 13
+LEFT 61 12
+DELETE 61 12
+LEFT 61 11
+RIGHT 61 12
+DELETE 61 12
+DELETE 61 12
+DELETE 61 12
+LEFT 61 11
+LEFT 61 10
+LEFT 61 9
+LEFT 61 8
+LEFT 61 7
+DELETE 61 7
+LEFT 61 6
+DELETE 61 6
+DELETE 61 6
+LEFT 61 5
+LEFT 61 4
+LEFT 61 3
+LEFT 61 2
+RIGHT 61 3
+LEFT 61 2
+INSERT 61 2
+LEFT 61 1
+LEFT 61 0
+LEFT 60 12
+LEFT 60 11
+LEFT 60 10
+LEFT 60 9
+LEFT 60 8
+RIGHT 60 9
+LEFT 60 8
+DELETE 60 8
+RIGHT 60 9
+DELETE 60 9
+LEFT 60 8
+LEFT 60 7
+LEFT 60 6
+LEFT 60 5
+DELETE 60 5
+RIGHT 60 6
+INSERT 60 6
+LEFT 60 5
+LEFT 60 4
+DELETE 60 4
+INSERT 60 4
+RIGHT 60 5
+INSERT 60 5
+RIGHT 60 6
+DELETE 60 6
+LEFT 60 5
+DELETE 60 5
+LEFT 60 4
+LEFT 60 3
+LEFT 60 2
+INSERT 60 2
+LEFT 60 1
+DELETE 60 1
+RIGHT 60 2
+INSERT 60 2
+INSERT 60 2
+LEFT 60 1
+INSERT 60 1
+LEFT 60 0
+INSERT 60 0
+LEFT 59 17
+DELETE 59 17
+RIGHT 60 0
+RIGHT 60 1
+DELETE 60 1
+INSERT 60 1
+DELETE 60 1
+LEFT 60 0
+LEFT 59 17
+LEFT 59 16
+LEFT 59 15
+DELETE 59 15
+INSERT 59 15
+INSERT 59 15
+LEFT 59 14
+DELETE 59 14
+INSERT 59 14
+RIGHT 59 15
+LEFT 59 14
+LEFT 59 13
+LEFT 59 12
+LEFT 59 11
+LEFT 59 10
+RIGHT 59 11
+DELETE 59 11
+INSERT 59 11
+RIGHT 59 12
+LEFT 59 11
+LEFT 59 10
+RIGHT 59 11
+LEFT 59 10
+DELETE 59 10
+LEFT 59 9
+LEFT 59 8
+RIGHT 59 9
+LEFT 59 8
+LEFT 59 7
+LEFT 59 6
+DELETE 59 6
+DELETE 59 6
+LEFT 59 5
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrchjKzpkT
+d Suvswn6`Bvda=yibv
+qq  3nljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 59 5
+RIGHT 59 6
+LEFT 59 5
+LEFT 59 4
+DELETE 59 4
+INSERT 59 4
+DELETE 59 4
+INSERT 59 4
+LEFT 59 3
+LEFT 59 2
+RIGHT 59 3
+LEFT 59 2
+LEFT 59 1
+LEFT 59 0
+LEFT 58 19
+LEFT 58 18
+LEFT 58 17
+LEFT 58 16
+INSERT 58 16
+LEFT 58 15
+LEFT 58 14
+LEFT 58 13
+INSERT 58 13
+INSERT 58 13
+DELETE 58 13
+LEFT 58 12
+LEFT 58 11
+LEFT 58 10
+LEFT 58 9
+LEFT 58 8
+INSERT 58 8
+DELETE 58 8
+LEFT 58 7
+LEFT 58 6
+DELETE 58 6
+INSERT 58 6
+LEFT 58 5
+INSERT 58 5
+DELETE 58 5
+DELETE 58 5
+LEFT 58 4
+DELETE 58 4
+DELETE 58 4
+RIGHT 58 5
+RIGHT 58 6
+RIGHT 58 7
+LEFT 58 6
+LEFT 58 5
+INSERT 58 5
+LEFT 58 4
+LEFT 58 3
+LEFT 58 2
+LEFT 58 1
+INSERT 58 1
+LEFT 58 0
+LEFT 57 17
+DELETE 57 17
+RIGHT 58 0
+LEFT 57 17
+LEFT 57 16
+LEFT 57 15
+LEFT 57 14
+DELETE 57 14
+INSERT 57 14
+LEFT 57 13
+LEFT 57 12
+RIGHT 57 13
+INSERT 57 13
+DELETE 57 13
+INSERT 57 13
+LEFT 57 12
+LEFT 57 11
+LEFT 57 10
+LEFT 57 9
+DELETE 57 9
+DELETE 57 9
+DELETE 57 9
+DELETE 57 9
+INSERT 57 9
+LEFT 57 8
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljpzHkTsbjv
+;zmX=zfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 57 7
+LEFT 57 6
+RIGHT 57 7
+LEFT 57 6
+RIGHT 57 7
+LEFT 57 6
+LEFT 57 5
+INSERT 57 5
+INSERT 57 5
+INSERT 57 5
+LEFT 57 4
+RIGHT 57 5
+DELETE 57 5
+LEFT 57 4
+INSERT 57 4
+LEFT 57 3
+LEFT 57 2
+LEFT 57 1
+LEFT 57 0
+RIGHT 57 1
+DELETE 57 1
+LEFT 57 0
+LEFT 56 13
+LEFT 56 12
+DELETE 56 12
+LEFT 56 11
+LEFT 56 10
+LEFT 56 9
+LEFT 56 8
+LEFT 56 7
+DELETE 56 7
+LEFT 56 6
+INSERT 56 6
+RIGHT 56 7
+LEFT 56 6
+LEFT 56 5
+DELETE 56 5
+LEFT 56 4
+INSERT 56 4
+RIGHT 56 5
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+uvljvpIHTsbj
+;mXg=DCzfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 56 4
+LEFT 56 3
+LEFT 56 2
+DELETE 56 2
+DELETE 56 2
+DELETE 56 2
+RIGHT 56 3
+LEFT 56 2
+DELETE 56 2
+LEFT 56 1
+INSERT 56 1
+LEFT 56 0
+RIGHT 56 1
+LEFT 56 0
+RIGHT 56 1
+RIGHT 56 2
+DELETE 56 2
+LEFT 56 1
+INSERT 56 1
+LEFT 56 0
+INSERT 56 0
+INSERT 56 0
+LEFT 55 10
+LEFT 55 9
+RIGHT 55 10
+INSERT 55 10
+RIGHT 55 11
+DELETE 55 11
+LEFT 55 10
+DELETE 55 10
+LEFT 55 9
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWwev tH
+szu yIHTsbj
+;mXg=DCzfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 55 9
+LEFT 55 8
+LEFT 55 7
+LEFT 55 6
+DELETE 55 6
+DELETE 55 6
+INSERT 55 6
+RIGHT 55 7
+RIGHT 55 8
+INSERT 55 8
+INSERT 55 8
+LEFT 55 7
+RIGHT 55 8
+RIGHT 55 9
+LEFT 55 8
+LEFT 55 7
+RIGHT 55 8
+INSERT 55 8
+LEFT 55 7
+DELETE 55 7
+RIGHT 55 8
+LEFT 55 7
+LEFT 55 6
+LEFT 55 5
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwdh>bhx yItib
+ yhcclB
+ugxWweHgXP
+szu yIHTsbj
+;mXg=DCzfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+INSERT 55 5
+LEFT 55 4
+INSERT 55 4
+LEFT 55 3
+DELETE 55 3
+LEFT 55 2
+LEFT 55 1
+DELETE 55 1
+LEFT 55 0
+LEFT 54 7
+DELETE 54 7
+DELETE 54 7
+LEFT 54 6
+INSERT 54 6
+RIGHT 54 7
+DELETE 54 7
+INSERT 54 7
+INSERT 54 7
+LEFT 54 6
+DELETE 54 6
+LEFT 54 5
+INSERT 54 5
+LEFT 54 4
+LEFT 54 3
+RIGHT 54 4
+LEFT 54 3
+DELETE 54 3
+INSERT 54 3
+RIGHT 54 4
+INSERT 54 4
+RIGHT 54 5
+DELETE 54 5
+LEFT 54 4
+RIGHT 54 5
+LEFT 54 4
+LEFT 54 3
+LEFT 54 2
+LEFT 54 1
+DELETE 54 1
+LEFT 54 0
+DELETE 54 0
+RIGHT 54 1
+LEFT 54 0
+DELETE 54 0
+LEFT 53 18
+LEFT 53 17
+RIGHT 53 18
+LEFT 53 17
+INSERT 53 17
+INSERT 53 17
+INSERT 53 17
+INSERT 53 17
+LEFT 53 16
+INSERT 53 16
+INSERT 53 16
+LEFT 53 15
+LEFT 53 14
+INSERT 53 14
+DELETE 53 14
+LEFT 53 13
+LEFT 53 12
+INSERT 53 12
+INSERT 53 12
+DELETE 53 12
+LEFT 53 11
+INSERT 53 11
+LEFT 53 10
+LEFT 53 9
+LEFT 53 8
+DELETE 53 8
+RIGHT 53 9
+LEFT 53 8
+DELETE 53 8
+LEFT 53 7
+LEFT 53 6
+DELETE 53 6
+RIGHT 53 7
+RIGHT 53 8
+INSERT 53 8
+LEFT 53 7
+RIGHT 53 8
+LEFT 53 7
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+t ?emuXcRf
+di ccwhhKux ytiSob
+Kqalqa
+uxuwxeHgXP
+szu yIHTsbj
+;mXg=DCzfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 53 7
+LEFT 53 6
+DELETE 53 6
+DELETE 53 6
+LEFT 53 5
+LEFT 53 4
+RIGHT 53 5
+RIGHT 53 6
+LEFT 53 5
+LEFT 53 4
+DELETE 53 4
+LEFT 53 3
+LEFT 53 2
+INSERT 53 2
+INSERT 53 2
+LEFT 53 1
+DELETE 53 1
+INSERT 53 1
+INSERT 53 1
+INSERT 53 1
+LEFT 53 0
+LEFT 52 10
+INSERT 52 10
+LEFT 52 9
+DELETE 52 9
+INSERT 52 9
+INSERT 52 9
+DELETE 52 9
+INSERT 52 9
+LEFT 52 8
+INSERT 52 8
+LEFT 52 7
+RIGHT 52 8
+RIGHT 52 9
+LEFT 52 8
+DELETE 52 8
+INSERT 52 8
+DELETE 52 8
+LEFT 52 7
+INSERT 52 7
+DELETE 52 7
+LEFT 52 6
+LEFT 52 5
+LEFT 52 4
+LEFT 52 3
+LEFT 52 2
+LEFT 52 1
+INSERT 52 1
+INSERT 52 1
+RIGHT 52 2
+RIGHT 52 3
+RIGHT 52 4
+LEFT 52 3
+LEFT 52 2
+RIGHT 52 3
+INSERT 52 3
+LEFT 52 2
+DELETE 52 2
+LEFT 52 1
+DELETE 52 1
+RIGHT 52 2
+DELETE 52 2
+DELETE 52 2
+DELETE 52 2
+LEFT 52 1
+RIGHT 52 2
+INSERT 52 2
+RIGHT 52 3
+INSERT 52 3
+LEFT 52 2
+RIGHT 52 3
+INSERT 52 3
+LEFT 52 2
+LEFT 52 1
+LEFT 52 0
+LEFT 51 16
+INSERT 51 16
+DELETE 51 16
+DELETE 51 16
+LEFT 51 15
+LEFT 51 14
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbcibyGegbqnxa|ndt 
+i eprnjqzdypjbF
+gFv d 
+r qaab;lb xstxa7
+tOm]GmuXcRSNK
+d&yAui cwux ytiSob
+Kqalqa
+uxuwxeHgXP
+szu yIHTsbj
+;mXg=DCzfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 51 13
+RIGHT 51 14
+INSERT 51 14
+LEFT 51 13
+LEFT 51 12
+INSERT 51 12
+DELETE 51 12
+LEFT 51 11
+DELETE 51 11
+LEFT 51 10
+LEFT 51 9
+LEFT 51 8
+INSERT 51 8
+RIGHT 51 9
+LEFT 51 8
+LEFT 51 7
+LEFT 51 6
+LEFT 51 5
+DELETE 51 5
+RIGHT 51 6
+INSERT 51 6
+DELETE 51 6
+INSERT 51 6
+DELETE 51 6
+LEFT 51 5
+INSERT 51 5
+LEFT 51 4
+DELETE 51 4
+LEFT 51 3
+INSERT 51 3
+INSERT 51 3
+LEFT 51 2
+LEFT 51 1
+LEFT 51 0
+INSERT 51 0
+LEFT 50 6
+RIGHT 51 0
+LEFT 50 6
+RIGHT 51 0
+DELETE 51 0
+DELETE 51 0
+INSERT 51 0
+LEFT 50 6
+LEFT 50 5
+RIGHT 50 6
+LEFT 50 5
+DELETE 50 5
+INSERT 50 5
+INSERT 50 5
+LEFT 50 4
+DELETE 50 4
+DELETE 50 4
+LEFT 50 3
+LEFT 50 2
+LEFT 50 1
+RIGHT 50 2
+INSERT 50 2
+DELETE 50 2
+INSERT 50 2
+LEFT 50 1
+LEFT 50 0
+RIGHT 50 1
+DELETE 50 1
+RIGHT 50 2
+LEFT 50 1
+LEFT 50 0
+DELETE 50 0
+LEFT 49 15
+LEFT 49 14
+DELETE 49 14
+LEFT 49 13
+INSERT 49 13
+DELETE 49 13
+LEFT 49 12
+LEFT 49 11
+LEFT 49 10
+DELETE 49 10
+LEFT 49 9
+LEFT 49 8
+LEFT 49 7
+LEFT 49 6
+DELETE 49 6
+LEFT 49 5
+LEFT 49 4
+INSERT 49 4
+LEFT 49 3
+RIGHT 49 4
+LEFT 49 3
+DELETE 49 3
+INSERT 49 3
+LEFT 49 2
+LEFT 49 1
+DELETE 49 1
+LEFT 49 0
+RIGHT 49 1
+LEFT 49 0
+LEFT 48 19
+INSERT 48 19
+RIGHT 48 20
+LEFT 48 19
+LEFT 48 18
+LEFT 48 17
+RIGHT 48 18
+DELETE 48 18
+DELETE 48 18
+INSERT 48 18
+DELETE 48 18
+DELETE 48 18
+LEFT 48 17
+RIGHT 48 18
+LEFT 48 17
+RIGHT 48 18
+LEFT 48 17
+INSERT 48 17
+DELETE 48 17
+LEFT 48 16
+LEFT 48 15
+LEFT 48 14
+DELETE 48 14
+INSERT 48 14
+LEFT 48 13
+INSERT 48 13
+INSERT 48 13
+DELETE 48 13
+INSERT 48 13
+RIGHT 48 14
+DELETE 48 14
+LEFT 48 13
+RIGHT 48 14
+RIGHT 48 15
+INSERT 48 15
+DELETE 48 15
+LEFT 48 14
+LEFT 48 13
+LEFT 48 12
+INSERT 48 12
+INSERT 48 12
+LEFT 48 11
+DELETE 48 11
+LEFT 48 10
+INSERT 48 10
+DELETE 48 10
+LEFT 48 9
+DELETE 48 9
+LEFT 48 8
+RIGHT 48 9
+INSERT 48 9
+LEFT 48 8
+LEFT 48 7
+LEFT 48 6
+INSERT 48 6
+LEFT 48 5
+DELETE 48 5
+LEFT 48 4
+LEFT 48 3
+LEFT 48 2
+LEFT 48 1
+RIGHT 48 2
+DELETE 48 2
+LEFT 48 1
+LEFT 48 0
+LEFT 47 12
+LEFT 47 11
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkHgdqioNh
+qinOg qkB< g
+dbibIGegRqxxka!ndt
+ieYjrnqzdpjb
+Gv a
+U qYKas;lWb xtxYa7
+tOm]GmuXcRSNK
+d&yAui cwux ytiSob
+Kqalqa
+uxuwxeHgXP
+szu yIHTsbj
+;mXg=DCzfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 47 10
+DELETE 47 10
+LEFT 47 9
+INSERT 47 9
+LEFT 47 8
+LEFT 47 7
+LEFT 47 6
+LEFT 47 5
+DELETE 47 5
+LEFT 47 4
+DELETE 47 4
+LEFT 47 3
+LEFT 47 2
+DELETE 47 2
+DELETE 47 2
+RIGHT 47 3
+INSERT 47 3
+LEFT 47 2
+LEFT 47 1
+RIGHT 47 2
+LEFT 47 1
+INSERT 47 1
+LEFT 47 0
+RIGHT 47 1
+DELETE 47 1
+LEFT 47 0
+LEFT 46 15
+DELETE 46 15
+LEFT 46 14
+INSERT 46 14
+LEFT 46 13
+LEFT 46 12
+DELETE 46 12
+RIGHT 46 13
+DELETE 46 13
+LEFT 46 12
+DELETE 46 12
+LEFT 46 11
+LEFT 46 10
+RIGHT 46 11
+LEFT 46 10
+LEFT 46 9
+DELETE 46 9
+DELETE 46 9
+LEFT 46 8
+DELETE 46 8
+INSERT 46 8
+RIGHT 46 9
+INSERT 46 9
+RIGHT 46 10
+DELETE 46 10
+DELETE 46 10
+DELETE 46 10
+LEFT 46 9
+LEFT 46 8
+LEFT 46 7
+LEFT 46 6
+INSERT 46 6
+LEFT 46 5
+RIGHT 46 6
+DELETE 46 6
+RIGHT 46 7
+INSERT 46 7
+DELETE 46 7
+INSERT 46 7
+DELETE 46 7
+DELETE 46 7
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpolv
+lsxaI bfs
+auQkayrbfpwpUj
+puiprgwhmq
+ixx LxowsJb hrdM ba
+zh iIB Iwpyavqn
+lwepzwkzV
+qiq`kB6<g
+dbibIGegRqxxka!ndt
+ieYjrnqzdpjb
+Gv a
+U qYKas;lWb xtxYa7
+tOm]GmuXcRSNK
+d&yAui cwux ytiSob
+Kqalqa
+uxuwxeHgXP
+szu yIHTsbj
+;mXg=DCzfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+DELETE 46 7
+DELETE 46 7
+DELETE 46 7
+LEFT 46 6
+INSERT 46 6
+LEFT 46 5
+INSERT 46 5
+LEFT 46 4
+INSERT 46 4
+INSERT 46 4
+LEFT 46 3
+LEFT 46 2
+INSERT 46 2
+LEFT 46 1
+LEFT 46 0
+LEFT 45 15
+RIGHT 46 0
+LEFT 45 15
+RIGHT 46 0
+INSERT 46 0
+LEFT 45 15
+LEFT 45 14
+LEFT 45 13
+LEFT 45 12
+LEFT 45 11
+RIGHT 45 12
+DELETE 45 12
+RIGHT 45 13
+INSERT 45 13
+RIGHT 45 14
+DELETE 45 14
+RIGHT 46 0
+RIGHT 46 1
+LEFT 46 0
+LEFT 45 14
+LEFT 45 13
+LEFT 45 12
+LEFT 45 11
+INSERT 45 11
+DELETE 45 11
+LEFT 45 10
+LEFT 45 9
+RIGHT 45 10
+INSERT 45 10
+INSERT 45 10
+RIGHT 45 11
+DELETE 45 11
+LEFT 45 10
+INSERT 45 10
+DELETE 45 10
+RIGHT 45 11
+DELETE 45 11
+INSERT 45 11
+RIGHT 45 12
+INSERT 45 12
+INSERT 45 12
+LEFT 45 11
+LEFT 45 10
+LEFT 45 9
+DELETE 45 9
+RIGHT 45 10
+LEFT 45 9
+LEFT 45 8
+RIGHT 45 9
+INSERT 45 9
+DELETE 45 9
+INSERT 45 9
+LEFT 45 8
+DELETE 45 8
+INSERT 45 8
+LEFT 45 7
+LEFT 45 6
+LEFT 45 5
+LEFT 45 4
+LEFT 45 3
+INSERT 45 3
+DELETE 45 3
+LEFT 45 2
+INSERT 45 2
+RIGHT 45 3
+LEFT 45 2
+INSERT 45 2
+LEFT 45 1
+INSERT 45 1
+INSERT 45 1
+INSERT 45 1
+LEFT 45 0
+LEFT 44 19
+LEFT 44 18
+LEFT 44 17
+LEFT 44 16
+INSERT 44 16
+RIGHT 44 17
+DELETE 44 17
+LEFT 44 16
+LEFT 44 15
+LEFT 44 14
+RIGHT 44 15
+LEFT 44 14
+RIGHT 44 15
+LEFT 44 14
+RIGHT 44 15
+DELETE 44 15
+LEFT 44 14
+INSERT 44 14
+LEFT 44 13
+LEFT 44 12
+LEFT 44 11
+LEFT 44 10
+LEFT 44 9
+INSERT 44 9
+LEFT 44 8
+LEFT 44 7
+LEFT 44 6
+RIGHT 44 7
+INSERT 44 7
+LEFT 44 6
+LEFT 44 5
+INSERT 44 5
+DELETE 44 5
+LEFT 44 4
+RIGHT 44 5
+LEFT 44 4
+LEFT 44 3
+INSERT 44 3
+INSERT 44 3
+DELETE 44 3
+LEFT 44 2
+RIGHT 44 3
+INSERT 44 3
+DELETE 44 3
+LEFT 44 2
+LEFT 44 1
+RIGHT 44 2
+LEFT 44 1
+INSERT 44 1
+LEFT 44 0
+LEFT 43 10
+INSERT 43 10
+DELETE 43 10
+LEFT 43 9
+RIGHT 43 10
+LEFT 43 9
+LEFT 43 8
+LEFT 43 7
+DELETE 43 7
+DELETE 43 7
+DELETE 43 7
+RIGHT 44 0
+DELETE 44 0
+DELETE 44 0
+DELETE 44 0
+LEFT 43 7
+RIGHT 44 0
+LEFT 43 7
+LEFT 43 6
+DELETE 43 6
+LEFT 43 5
+INSERT 43 5
+LEFT 43 4
+LEFT 43 3
+DELETE 43 3
+INSERT 43 3
+INSERT 43 3
+LEFT 43 2
+INSERT 43 2
+LEFT 43 1
+DELETE 43 1
+LEFT 43 0
+LEFT 42 14
+RIGHT 43 0
+LEFT 42 14
+INSERT 42 14
+LEFT 42 13
+LEFT 42 12
+INSERT 42 12
+DELETE 42 12
+DELETE 42 12
+LEFT 42 11
+DELETE 42 11
+LEFT 42 10
+DELETE 42 10
+LEFT 42 9
+DELETE 42 9
+LEFT 42 8
+DELETE 42 8
+DELETE 42 8
+RIGHT 42 9
+LEFT 42 8
+DELETE 42 8
+INSERT 42 8
+LEFT 42 7
+INSERT 42 7
+LEFT 42 6
+RIGHT 42 7
+INSERT 42 7
+LEFT 42 6
+LEFT 42 5
+DELETE 42 5
+LEFT 42 4
+RIGHT 42 5
+RIGHT 42 6
+LEFT 42 5
+LEFT 42 4
+LEFT 42 3
+RIGHT 42 4
+LEFT 42 3
+DELETE 42 3
+LEFT 42 2
+DELETE 42 2
+DELETE 42 2
+LEFT 42 1
+DELETE 42 1
+LEFT 42 0
+INSERT 42 0
+LEFT 41 9
+LEFT 41 8
+LEFT 41 7
+INSERT 41 7
+DELETE 41 7
+DELETE 41 7
+LEFT 41 6
+DELETE 41 6
+LEFT 41 5
+LEFT 41 4
+DELETE 41 4
+DELETE 41 4
+DELETE 41 4
+DELETE 41 4
+INSERT 41 4
+LEFT 41 3
+INSERT 41 3
+INSERT 41 3
+LEFT 41 2
+INSERT 41 2
+DELETE 41 2
+LEFT 41 1
+DELETE 41 1
+LEFT 41 0
+INSERT 41 0
+INSERT 41 0
+DELETE 41 0
+LEFT 40 16
+DELETE 40 16
+LEFT 40 15
+DELETE 40 15
+LEFT 40 14
+DELETE 40 14
+LEFT 40 13
+LEFT 40 12
+LEFT 40 11
+LEFT 40 10
+LEFT 40 9
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd guh0rTUtnpo
+nlxVGaA
+DarRMbq
+pHi7BrJg
+x LowsgJb hrkdTba
+zfhhc iIB Inc&kjWaqP
+dlwcep`jznwwk
+qiq`kB6<g
+dbibIGegRqxxka!ndt
+ieYjrnqzdpjb
+Gv a
+U qYKas;lWb xtxYa7
+tOm]GmuXcRSNK
+d&yAui cwux ytiSob
+Kqalqa
+uxuwxeHgXP
+szu yIHTsbj
+;mXg=DCzfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+RIGHT 40 10
+DELETE 40 10
+LEFT 40 9
+LEFT 40 8
+LEFT 40 7
+INSERT 40 7
+INSERT 40 7
+RIGHT 40 8
+LEFT 40 7
+LEFT 40 6
+INSERT 40 6
+LEFT 40 5
+LEFT 40 4
+INSERT 40 4
+DELETE 40 4
+LEFT 40 3
+INSERT 40 3
+RIGHT 40 4
+LEFT 40 3
+RIGHT 40 4
+DELETE 40 4
+DELETE 40 4
+INSERT 40 4
+LEFT 40 3
+START
+tnVetrEtiEZtUhz
+llgkF NJm u 
+toshmekz;x
+hBqDy wbg oudft
+iumxxg nwjwhvhFvid
+p aamaOqBakvmzvwq
+iueoxtvxj teoldihtNb
+gt sQcz
+xuCqhrxsfon
+wotrjjivgxyxwq
+jm j W.pbewwcsqr  r
+crljdS ybXao jbn 
+nz fnsenEO?fWsd
+ tzeWdcorytfrh
+YWogpbzkuOBoknQt e
+jnVqnytuuw qTydj
+ou ishIsqvfpfnDnz
+ugpiWTqm rnbnu
+mhw"Ihqh si
+oydxvxjmnuk7umtx mRq
+qvirnxpgM
+scippAa IrcwserDmzle
+dm_yCOnKpDuamUba
+oojothh zm8cbmkmd o
+fpva xa wW pzvjgcpj
+ inkbi
+mgtaa VTznaLKxpgu
+zzqvo x2RoBKxPjhu
+vPlybKNXIHuCVq
+CtUxLzDkdOethodwemrD
+WrltusthxZ+ypa
+ChgCR,{hmWjbogk}
+cyzGktaaibW[hRza
+mQnca PqE #:xnG
+zkflcvpscmD ekrow
+vCAWe LmupAjcev w  e
+DWFvocQqbU ojodSkrj
+cp  rtoDpgGBdr
+jfztflhpzrtqeqpHaxyb
+sVyaqrjlMpGle
+pd  mhG0gSrTUnpo
+nlxVGaA
+DarRMbq
+pHi7BrJg
+x LowsgJb hrkdTba
+zfhhc iIB Inc&kjWaqP
+dlwcep`jznwwk
+qiq`kB6<g
+dbibIGegRqxxka!ndt
+ieYjrnqzdpjb
+Gv a
+U qYKas;lWb xtxYa7
+tOm]GmuXcRSNK
+d&yAui cwux ytiSob
+Kqalqa
+uxuwxeHgXP
+szu yIHTsbj
+;mXg=DCzfjrGbztkT
+dt SunC6`Bvd=yvibv
+qq  YljpGnSvEv
+JjeyKeo4mrxz
+(M@rolryfd
+knnkx aiM
+zwliAKglhVl
+iMgonAhJSKp mt0mvjz
+pWqrwlklbtKdg
+jcKkwnIgwhvziL rWWav
+bqrkERWS .wYJz
+ezkOus0Mo
+pokbMfDVL)zNfuObSkj
+zfjG
+ Xtsgfk
+DTIxshmuCNmwa  y
+Pfs&|R xa iK
+Xfj
+Muiu
+eHeOoykO
+ZY9qhyiYrF>dmtf Ob
+zIcwketyq wzikpcz ew
+raxxp atpaughof 
+ kq zcgcyfzvfgxxusl
+extorc ytd
+gfowvlhsajcegdzf
+mfixsrhwu wwmsgke
+lqtr bfxlkqjxlj
+lkgqjyzz ueylskd
+ dmyysyuz  tbc
+joqlkqsjduvmy
+xn vsmhk du
+fsts zlyn fsvzz
+mkodkkaegcseh cz
+ izuuvczdao zh
+wixroxcnlee
+c b  nmaj g
+gwinjuycqngxz wxk
+xcqqsxcyy ljfpbq
+qihbvper  rorlceb
+la fivpgbs
+xzyqehlfikdapifahl
+evpbgrh  eatiicst
+END
+LEFT 40 2
+RIGHT 40 3
+RIGHT 40 4
+LEFT 40 3
+DELETE 40 3
+DELETE 40 3
+INSERT 40 3
+LEFT 40 2
+DELETE 40 2
+RIGHT 40 3
+DELETE 40 3
+DELETE 40 3
+LEFT 40 2
+LEFT 40 1
+RIGHT 40 2
+DELETE 40 2
+INSERT 40 2
+INSERT 40 2
+LEFT 40 1
+LEFT 40 0
+INSERT 40 0
+LEFT 39 13
+RIGHT 40 0
+RIGHT 40 1
+LEFT 40 0
+INSERT 40 0
+LEFT 39 13
+INSERT 39 13
+INSERT 39 13
+RIGHT 39 14
+INSERT 39 14
+DELETE 39 14
+LEFT 39 13
+LEFT 39 12

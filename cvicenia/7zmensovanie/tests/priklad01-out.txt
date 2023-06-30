@@ -1,0 +1,27 @@
+Size of the array is 2
+Adding value 3
+Adding value 7
+Size of the array is 2
+Adding value 4
+Size of the array is 4
+Adding value 9
+Adding value 6
+Value at position 0 is 3
+Setting value at position 0 to 2
+Value at position 0 is 2
+Value at position 4 is 6
+Removing the last element 
+Adding value 5
+Size of the array is 8
+Value at position 4 is 5
+Removing the last element 
+Size of the array is 8
+Removing the last element 
+Size of the array is 8
+Removing the last element 
+Size of the array is 8
+Removing the last element 
+Size of the array is 4
+Removing the last element 
+Size of the array is 2
+Finishing 

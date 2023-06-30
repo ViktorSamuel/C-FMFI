@@ -1,0 +1,9 @@
+Vyskyty retazca "a": a aaa aaaaa aaaaaaa
+Vyskyty retazca "aa": aaa aaaaa aaaaaaa
+Vyskyty retazca "aaa": aaa aaaaa aaaaaaa
+Vyskyty retazca "aaaaaa": aaaaaaa
+Vyskyty retazca "aaaaaaa": aaaaaaa
+Vyskyty retazca "aaaaaaaa":
+Vyskyty retazca "b":
+Vyskyty retazca "za":
+Vyskyty retazca "az":

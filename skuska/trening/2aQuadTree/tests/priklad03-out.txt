@@ -1,0 +1,12 @@
+Vstupny strom:
+x
+Pocet listov 1
+
+Strom po zjednoduseni:
+x
+Pocet listov 1
+
+Strom po prevrateni:
+x
+Pocet listov 1
+

@@ -1,0 +1,6 @@
+Pocet pouzitych zavazi: 3
+Zavazie 3: 0
+Zavazie 4: 1
+Zavazie 5: 0
+Zavazie 7: 1
+Zavazie 10: 1

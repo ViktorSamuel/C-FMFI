@@ -1,0 +1,36 @@
+Povodny vyraz: (((3 + x) + ((-1) * 4)) + 3)
+Vyraz obsahuje premmenu x
+Po volani funkcie simplify: (((3 + x) + (-4)) + 3)
+
+Povodny vyraz: ((((-4) * (-4)) + (((0 + (4 + (0 * 5))) * (1 * (-5))) * 5)) + (((-2) + 2) * (0 + 1)))
+Vyraz neobsahuje premennu x
+Po volani funkcie simplify: (-84)
+
+Povodny vyraz: ((((-2) + (-4)) + ((-1) * 0)) * (x * x))
+Vyraz obsahuje premmenu x
+Po volani funkcie simplify: ((-6) * (x * x))
+
+Povodny vyraz: (((2 * 3) + ((0 * x) + (-1))) * ((((-3) * 3) * 5) * (0 * x)))
+Vyraz obsahuje premmenu x
+Po volani funkcie simplify: ((6 + ((0 * x) + (-1))) * ((-45) * (0 * x)))
+
+Povodny vyraz: ((x + (3 * 2)) + ((1 * (-3)) + x))
+Vyraz obsahuje premmenu x
+Po volani funkcie simplify: ((x + 6) + ((-3) + x))
+
+Povodny vyraz: (x * ((x + (-1)) + 0))
+Vyraz obsahuje premmenu x
+Po volani funkcie simplify: (x * ((x + (-1)) + 0))
+
+Povodny vyraz: (5 + (((-2) + (-1)) * (4 * 4)))
+Vyraz neobsahuje premennu x
+Po volani funkcie simplify: (-43)
+
+Povodny vyraz: ((((-5) + 4) + ((-5) + 5)) * (((1 * 1) + (3 + (-3))) + (((-3) + (-2)) * (-1))))
+Vyraz neobsahuje premennu x
+Po volani funkcie simplify: (-6)
+
+Povodny vyraz: (((x * (1 + 4)) * ((-1) * 2)) * ((2 + 5) + ((3 * 4) + (((-4) * (-5)) * (-1)))))
+Vyraz obsahuje premmenu x
+Po volani funkcie simplify: (((x * 5) * (-2)) * (-1))
+

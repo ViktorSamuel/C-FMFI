@@ -1,0 +1,3 @@
+Vyskyty retazca "ab": aab baab bab babab
+Vyskyty retazca "bb":
+Vyskyty retazca "a": aaa aab baab bab babab

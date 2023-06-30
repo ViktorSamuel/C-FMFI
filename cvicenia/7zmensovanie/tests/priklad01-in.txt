@@ -1,0 +1,27 @@
+size
+add 3
+add 7
+size
+add 4
+size
+add 9
+add 6
+get 0
+set 0 2
+get 0
+get 4
+remove
+add 5
+size
+get 4
+remove
+size
+remove
+size
+remove
+size
+remove
+size
+remove
+size
+end

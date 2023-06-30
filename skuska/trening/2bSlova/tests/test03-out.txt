@@ -1,0 +1,14 @@
+Vyskyty retazca "a": aaa aab baab bab babab
+Vyskyty retazca "b": aab baab bab babab
+Vyskyty retazca "aa": aaa aab baab
+Vyskyty retazca "ab": aab baab bab babab
+Vyskyty retazca "ba": baab bab babab
+Vyskyty retazca "bb":
+Vyskyty retazca "aaa": aaa
+Vyskyty retazca "aab": aab baab
+Vyskyty retazca "aba": babab
+Vyskyty retazca "abb":
+Vyskyty retazca "baa": baab
+Vyskyty retazca "bab": bab babab
+Vyskyty retazca "bba":
+Vyskyty retazca "bbb":

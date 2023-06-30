@@ -1,0 +1,8 @@
+Pocet pouzitych zavazi: 3
+Zavazie 22: 0
+Zavazie 23: 0
+Zavazie 25: 1
+Zavazie 32: 0
+Zavazie 33: 0
+Zavazie 35: 2
+Zavazie 36: 0

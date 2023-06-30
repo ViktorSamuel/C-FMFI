@@ -1,0 +1,21 @@
+Vstupny strom:
+aaaa
+aaaa
+aaaa
+aaaa
+Pocet listov 16
+
+Strom po zjednoduseni:
+aaaa
+aaaa
+aaaa
+aaaa
+Pocet listov 1
+
+Strom po prevrateni:
+aaaa
+aaaa
+aaaa
+aaaa
+Pocet listov 1
+

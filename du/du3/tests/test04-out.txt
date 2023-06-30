@@ -1,0 +1,103 @@
+START
+abcd
+efgh
+ijkl
+mnop
+END
+DELETE 0 0
+START
+bcd
+efgh
+ijkl
+mnop
+END
+RIGHT 0 1
+DELETE 0 1
+START
+bd
+efgh
+ijkl
+mnop
+END
+RIGHT 0 2
+RIGHT 1 0
+DELETE 1 0
+START
+bd
+fgh
+ijkl
+mnop
+END
+DELETE 1 0
+START
+bd
+gh
+ijkl
+mnop
+END
+DELETE 1 0
+START
+bd
+h
+ijkl
+mnop
+END
+DELETE 1 0
+START
+bd
+
+ijkl
+mnop
+END
+DELETE 1 0
+START
+bd
+
+ijkl
+mnop
+END
+RIGHT 2 0
+RIGHT 2 1
+RIGHT 2 2
+RIGHT 2 3
+RIGHT 2 4
+RIGHT 3 0
+DELETE 3 0
+START
+bd
+
+ijkl
+nop
+END
+DELETE 3 0
+START
+bd
+
+ijkl
+op
+END
+DELETE 3 0
+START
+bd
+
+ijkl
+p
+END
+DELETE 3 0
+START
+bd
+
+ijkl
+END
+DELETE 3 0
+START
+bd
+
+ijkl
+END
+DELETE 3 0
+START
+bd
+
+ijkl
+END
